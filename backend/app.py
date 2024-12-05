@@ -3,8 +3,6 @@ from sentence_transformers import SentenceTransformer
 from sklearn.cluster import AgglomerativeClustering
 import pandas as pd
 import random
-from scipy.stats import entropy
-import matplotlib.pyplot as plt
 
 # Load the data
 with open('intents.json', 'r', encoding='utf-8') as file:
@@ -66,52 +64,11 @@ for intent in data['intents']:
 
 df = pd.DataFrame(rows)
 
-# Print the distribution of grouped tags
-print("Distribution of grouped tags:")
-print(df['grouped_tag'].value_counts())
-
 # Save the updated DataFrame to a CSV file
 df.to_csv('grouped_intents.csv', index=False, encoding='utf-8')
-
-# Print some sample rows to verify the grouping
-print("\nSample rows from the grouped dataset:")
-print(df.sample(5))
 
 # Save the tag mapping for future reference
 with open('tag_mapping.json', 'w', encoding='utf-8') as f:
     json.dump(tag_mapping, f, ensure_ascii=False, indent=2)
 
 print("\nGrouping complete. Results saved to 'grouped_intents.csv' and 'tag_mapping.json'.")
-
-# Analyze the new distribution
-print("\nNew tag distribution:")
-new_distribution = df['grouped_tag'].value_counts()
-print(new_distribution)
-
-print("\nDescriptive statistics of the new distribution:")
-print(new_distribution.describe())
-
-# Calculate and print the entropy of the new distribution
-new_probabilities = new_distribution / new_distribution.sum()
-new_entropy = entropy(new_probabilities)
-print(f"\nEntropy of the new distribution: {new_entropy:.4f}")
-
-# Compare with the original distribution
-original_distribution = df['original_tag'].value_counts()
-original_probabilities = original_distribution / original_distribution.sum()
-original_entropy = entropy(original_probabilities)
-print(f"Entropy of the original distribution: {original_entropy:.4f}")
-
-print(f"\nNumber of original tags: {len(original_distribution)}")
-print(f"Number of grouped tags: {len(new_distribution)}")
-
-# Visualize the new distribution
-plt.figure(figsize=(12, 6))
-new_distribution.plot(kind='bar')
-plt.title('Distribution of Grouped Tags')
-plt.xlabel('Grouped Tags')
-plt.ylabel('Count')
-plt.xticks(rotation=45, ha='right')
-plt.tight_layout()
-plt.savefig('grouped_tags_distribution.png')
-print("\nDistribution plot saved as 'grouped_tags_distribution.png'")
