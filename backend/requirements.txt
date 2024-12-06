@@ -1,0 +1,10 @@
+flask
+flask-cors
+scikit-learn
+numpy
+scipy
+pandas
+spacy
+plotly
+imbalanced-learn
+pickle
