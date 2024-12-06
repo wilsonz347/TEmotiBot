@@ -1,492 +1,492 @@
 original_tag,grouped_tag,pattern,response
-greeting,night-group,Hi,Hi there. How are you feeling today?
-greeting,night-group,Hey,Hi there. What brings you here today?
-greeting,night-group,Is anyone there?,Great to see you. How do you feel currently?
-greeting,night-group,Hi there,Hi there. How are you feeling today?
-greeting,night-group,Hello,Hi there. What brings you here today?
-greeting,night-group,Howdy,Great to see you. How do you feel currently?
-greeting,night-group,Hola,Hi there. What brings you here today?
-greeting,night-group,Bonjour,Hi there. How are you feeling today?
-greeting,night-group,Greetings,Hello there. Tell me how are you feeling today?
-greeting,night-group,Yo,Hello there. Tell me how are you feeling today?
-greeting,night-group,Hiya,Hi there. How are you feeling today?
-greeting,night-group,What's going on?,Hi there. What brings you here today?
-greeting,night-group,Hey there,Hi there. What brings you here today?
-greeting,night-group,How's it going?,Hi there. What brings you here today?
-greeting,night-group,Sup,Hi there. What brings you here today?
-morning,night-group,Good morning,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Morning!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Rise and shine!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,"Wakey, wakey!",Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Top of the morning to you!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Morning vibes!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,A pleasant morning to you!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Bright and early!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,"Hello, sunshine!",Good morning. I hope you had a good night's sleep. How are you feeling today? 
-morning,night-group,Good daybreak!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
-afternoon,night-group,Good afternoon,Good afternoon. How is your day going?
-afternoon,night-group,Afternoon!,Good afternoon. How is your day going?
-afternoon,night-group,"Hello, good afternoon!",Good afternoon. How is your day going?
-afternoon,night-group,Hope you're having a great afternoon!,Good afternoon. How is your day going?
-afternoon,night-group,Good day!,Good afternoon. How is your day going?
-afternoon,night-group,How's your afternoon going?,Good afternoon. How is your day going?
-afternoon,night-group,Wishing you a pleasant afternoon!,Good afternoon. How is your day going?
-afternoon,night-group,Happy afternoon!,Good afternoon. How is your day going?
-afternoon,night-group,What a lovely afternoon!,Good afternoon. How is your day going?
-afternoon,night-group,Hello this fine afternoon!,Good afternoon. How is your day going?
-evening,night-group,Good evening,Good evening. How has your day been?
-evening,night-group,Evening!,Good evening. How has your day been?
-evening,night-group,"Hello, good evening!",Good evening. How has your day been?
-evening,night-group,Hope you're enjoying your evening!,Good evening. How has your day been?
-evening,night-group,Wishing you a relaxing evening!,Good evening. How has your day been?
-evening,night-group,How's your evening going?,Good evening. How has your day been?
-evening,night-group,"Lovely evening, isn't it?",Good evening. How has your day been?
-evening,night-group,What are your plans for tonight?,Good evening. How has your day been?
-evening,night-group,A pleasant evening to you!,Good evening. How has your day been?
-evening,night-group,How are you winding down tonight?,Good evening. How has your day been?
-night,night-group,Good night,Good night. Sweet dreams.
-night,night-group,Night night!,Good night. Get some proper sleep.
-night,night-group,Sleep well!,Good night. Sweet dreams.
-night,night-group,Sweet dreams!,Good night. Get some proper sleep.
-night,night-group,Rest well!,Good night. Get some proper sleep.
-night,night-group,Have a peaceful night!,Good night. Sweet dreams.
-night,night-group,Time to sleep!,Good night. Sweet dreams.
-night,night-group,"Goodnight, sleep tight!",Good night. Sweet dreams.
-night,night-group,See you in the morning!,Good night. Get some proper sleep.
-night,night-group,Dream big tonight!,Good night. Sweet dreams.
-goodbye,stupid-group,Bye,See you later.
-goodbye,stupid-group,See you later,See you later.
-goodbye,stupid-group,Goodbye,Have a nice day.
-goodbye,stupid-group,Au revoir,See you later.
-goodbye,stupid-group,Sayonara,I'll see you soon.
-goodbye,stupid-group,Ok bye,See you later.
-goodbye,stupid-group,Bye then,Bye! Come back again.
-goodbye,stupid-group,Fare thee well,I'll see you soon.
-goodbye,stupid-group,Catch you later,See you later.
-goodbye,stupid-group,Take care,I'll see you soon.
-goodbye,stupid-group,Adios,I'll see you soon.
-thanks,stupid-group,Thanks,You're most welcome!
-thanks,stupid-group,Thank you,You're most welcome!
-thanks,stupid-group,That's helpful,Happy to help!
-thanks,stupid-group,Thanks for the help,Any time!
-thanks,stupid-group,Thank you very much,You're most welcome!
-thanks,stupid-group,I appreciate it,You're most welcome!
-thanks,stupid-group,Much obliged,Happy to help!
-thanks,stupid-group,Thanks a lot,You're most welcome!
-thanks,stupid-group,Many thanks,Any time!
-thanks,stupid-group,Thanks so much,Happy to help!
-no-response,stupid-group,,Not sure I understand that.
-no-response,stupid-group, ,"Sorry, I didn't understand you."
-no-response,stupid-group,...,Please don't hesitate to talk to me.
-no-response,stupid-group,?,Please don't hesitate to talk to me.
-no-response,stupid-group,huh?,Please don't hesitate to talk to me.
-no-response,stupid-group,what?,Please don't hesitate to talk to me.
-no-response,stupid-group,umm?,Please don't hesitate to talk to me.
-no-response,stupid-group,???,"Sorry, I didn't understand you."
-no-response,stupid-group,eh?,Not sure I understand that.
-no-response,stupid-group,can you repeat that?,Please don't hesitate to talk to me.
-no-response,stupid-group,I don't get it,Not sure I understand that.
-neutral-response,night-group,nothing much,Oh I see. Do you want to talk about something?
-neutral-response,night-group,not much happening,Oh I see. Do you want to talk about something?
-neutral-response,night-group,just chilling,Oh I see. Do you want to talk about something?
-neutral-response,night-group,"same old, same old",Oh I see. Do you want to talk about something?
-neutral-response,night-group,not really doing anything,Oh I see. Do you want to talk about something?
-neutral-response,night-group,just hanging out,Oh I see. Do you want to talk about something?
-neutral-response,night-group,keeping it low-key,Oh I see. Do you want to talk about something?
-neutral-response,night-group,taking it easy,Oh I see. Do you want to talk about something?
-neutral-response,night-group,just relaxing,Oh I see. Do you want to talk about something?
-neutral-response,night-group,kinda bored,Oh I see. Do you want to talk about something?
-neutral-response,night-group,"just here, really",Oh I see. Do you want to talk about something?
-about,advice-group,Who are you?,"I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself."
-about,advice-group,What are you?,"I'm Emily, your Personal Therapeutic AI Assistant. How are you feeling today?"
-about,advice-group,Who you are?,"I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself."
-about,advice-group,Tell me more about yourself.,You can call me Pandora.
-about,advice-group,What is your name?,I'm Pandora!
-about,advice-group,What should I call you?,I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?
-about,advice-group,What's your name?,You can call me Pandora.
-about,advice-group,Tell me about yourself,"I'm Emily, your Personal Therapeutic AI Assistant. How are you feeling today?"
-about,advice-group,Can you introduce yourself?,You can call me Pandora.
-about,advice-group,What do you do?,Call me Pandora
-skill,advice-group,What can you do?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,What are your capabilities?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,How can you assist me?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,What services do you provide?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,Tell me about your skills,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,What help can you offer?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,Can you give me some advice?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,What topics can you discuss?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,What are your strengths?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-skill,advice-group,How can you help me with mental health?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
-creation,advice-group,Who created you?,I was created by a team of developers and researchers.
-creation,advice-group,How were you made?,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques.
-creation,advice-group,How were you created?,The real question is: Who created you?
-creation,advice-group,Who is your creator?,I was created by a team of developers and researchers.
-creation,advice-group,What is your origin?,The real question is: Who created you?
-creation,advice-group,Can you tell me about your development?,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques.
-creation,advice-group,How did you come to be?,The real question is: Who created you?
-creation,advice-group,What technology was used to create you?,The real question is: Who created you?
-creation,advice-group,Who designed you?,The real question is: Who created you?
-creation,advice-group,What went into making you?,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques.
-name,stupid-group,My name is ,"Oh, nice to meet you. Tell me, how was your week?"
-name,stupid-group,I am name.,"Nice to meet you. So tell me, how do you feel today?"
-name,stupid-group,I go by ,"Nice to meet you. So tell me, how do you feel today?"
-name,stupid-group,You can call me ,"Oh, nice to meet you. Tell me, how was your week?"
-name,stupid-group,People call me ,"Nice to meet you. So tell me, how do you feel today?"
-name,stupid-group,I’m known as ,"Oh, nice to meet you. Tell me, how was your week?"
-name,stupid-group,My friends call me ,"Nice to meet you. So tell me, how do you feel today?"
-name,stupid-group,I prefer the name ,"Nice to meet you. So tell me, how do you feel today?"
-name,stupid-group,They call me ,"Oh, nice to meet you. Tell me, how was your week?"
-name,stupid-group,I’m called ,That's a great name! Tell me more about yourself.
-help,advice-group,Could you help me?,Tell me your problem so I can assist you.
-help,advice-group,Give me a hand please,"Yes, sure. How can I help you?"
-help,advice-group,Can you help?,"Yes, sure. How can I help you?"
-help,advice-group,What can you do for me?,Sure. Tell me how I can assist you.
-help,advice-group,I need support,Sure. Tell me how I can assist you.
-help,advice-group,I need help,Tell me your problem so I can assist you.
-help,advice-group,Support me please,"Yes, sure. How can I help you?"
-help,advice-group,Can you assist me?,Tell me your problem so I can assist you.
-help,advice-group,Could you lend a hand?,Tell me your problem so I can assist you.
-help,advice-group,I could use some help,Sure. Tell me how I can assist you.
-sad,sad-group,I am feeling lonely,How long have you been feeling this way?
-sad,sad-group,I am so lonely,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
-sad,sad-group,I feel down,I'm here for you. Could you tell me why you're feeling this way?
-sad,sad-group,I feel sad,Why do you think you feel this way?
-sad,sad-group,I am sad,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
-sad,sad-group,I feel so lonely,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
-sad,sad-group,I feel empty,Why do you think you feel this way?
-sad,sad-group,I don't have anyone,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
-sad,sad-group,I'm feeling lost,Why do you think you feel this way?
-sad,sad-group,I'm feeling hopeless,Why do you think you feel this way?
-sad,sad-group,I'm struggling with loneliness,"I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?"
-stressed,anxious-group,I am so stressed out,What do you think is causing this?
-stressed,anxious-group,I am so stressed,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
-stressed,anxious-group,I feel stuck,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
-stressed,anxious-group,I still feel stressed,Give yourself a break. Go easy on yourself.
-stressed,anxious-group,I am so burned out,What do you think is causing this?
-stressed,anxious-group,I can't handle this stress,What do you think is causing this?
-stressed,anxious-group,Everything is overwhelming,Give yourself a break. Go easy on yourself.
-stressed,anxious-group,I have too much on my plate,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
-stressed,anxious-group,I'm feeling anxious,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
-stressed,anxious-group,I'm under a lot of pressure,Give yourself a break. Go easy on yourself.
-worthless,hate-group,I feel so worthless.,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
-worthless,hate-group,No one likes me.,It's only natural to feel this way. Tell me more. What else is on your mind?
-worthless,hate-group,I can't do anything.,Let's discuss further why you're feeling this way.
+greeting,evening-group,Hi,Hello there. Tell me how are you feeling today?
+greeting,evening-group,Hey,Hello there. Tell me how are you feeling today?
+greeting,evening-group,Is anyone there?,Hi there. What brings you here today?
+greeting,evening-group,Hi there,Hi there. How are you feeling today?
+greeting,evening-group,Hello,Great to see you. How do you feel currently?
+greeting,evening-group,Howdy,Hi there. What brings you here today?
+greeting,evening-group,Hola,Hi there. How are you feeling today?
+greeting,evening-group,Bonjour,Hello there. Tell me how are you feeling today?
+greeting,evening-group,Greetings,Hi there. How are you feeling today?
+greeting,evening-group,Yo,Hi there. What brings you here today?
+greeting,evening-group,Hiya,Great to see you. How do you feel currently?
+greeting,evening-group,What's going on?,Hi there. How are you feeling today?
+greeting,evening-group,Hey there,Great to see you. How do you feel currently?
+greeting,evening-group,How's it going?,Hi there. What brings you here today?
+greeting,evening-group,Sup,Great to see you. How do you feel currently?
+morning,evening-group,Good morning,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Morning!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Rise and shine!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,"Wakey, wakey!",Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Top of the morning to you!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Morning vibes!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,A pleasant morning to you!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Bright and early!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,"Hello, sunshine!",Good morning. I hope you had a good night's sleep. How are you feeling today? 
+morning,evening-group,Good daybreak!,Good morning. I hope you had a good night's sleep. How are you feeling today? 
+afternoon,evening-group,Good afternoon,Good afternoon. How is your day going?
+afternoon,evening-group,Afternoon!,Good afternoon. How is your day going?
+afternoon,evening-group,"Hello, good afternoon!",Good afternoon. How is your day going?
+afternoon,evening-group,Hope you're having a great afternoon!,Good afternoon. How is your day going?
+afternoon,evening-group,Good day!,Good afternoon. How is your day going?
+afternoon,evening-group,How's your afternoon going?,Good afternoon. How is your day going?
+afternoon,evening-group,Wishing you a pleasant afternoon!,Good afternoon. How is your day going?
+afternoon,evening-group,Happy afternoon!,Good afternoon. How is your day going?
+afternoon,evening-group,What a lovely afternoon!,Good afternoon. How is your day going?
+afternoon,evening-group,Hello this fine afternoon!,Good afternoon. How is your day going?
+evening,evening-group,Good evening,Good evening. How has your day been?
+evening,evening-group,Evening!,Good evening. How has your day been?
+evening,evening-group,"Hello, good evening!",Good evening. How has your day been?
+evening,evening-group,Hope you're enjoying your evening!,Good evening. How has your day been?
+evening,evening-group,Wishing you a relaxing evening!,Good evening. How has your day been?
+evening,evening-group,How's your evening going?,Good evening. How has your day been?
+evening,evening-group,"Lovely evening, isn't it?",Good evening. How has your day been?
+evening,evening-group,What are your plans for tonight?,Good evening. How has your day been?
+evening,evening-group,A pleasant evening to you!,Good evening. How has your day been?
+evening,evening-group,How are you winding down tonight?,Good evening. How has your day been?
+night,evening-group,Good night,Good night. Get some proper sleep.
+night,evening-group,Night night!,Good night. Get some proper sleep.
+night,evening-group,Sleep well!,Good night. Get some proper sleep.
+night,evening-group,Sweet dreams!,Good night. Get some proper sleep.
+night,evening-group,Rest well!,Good night. Sweet dreams.
+night,evening-group,Have a peaceful night!,Good night. Sweet dreams.
+night,evening-group,Time to sleep!,Good night. Sweet dreams.
+night,evening-group,"Goodnight, sleep tight!",Good night. Get some proper sleep.
+night,evening-group,See you in the morning!,Good night. Sweet dreams.
+night,evening-group,Dream big tonight!,Good night. Get some proper sleep.
+goodbye,goodbye-group,Bye,Have a nice day.
+goodbye,goodbye-group,See you later,I'll see you soon.
+goodbye,goodbye-group,Goodbye,I'll see you soon.
+goodbye,goodbye-group,Au revoir,See you later.
+goodbye,goodbye-group,Sayonara,Bye! Come back again.
+goodbye,goodbye-group,Ok bye,See you later.
+goodbye,goodbye-group,Bye then,I'll see you soon.
+goodbye,goodbye-group,Fare thee well,See you later.
+goodbye,goodbye-group,Catch you later,Have a nice day.
+goodbye,goodbye-group,Take care,See you later.
+goodbye,goodbye-group,Adios,I'll see you soon.
+thanks,goodbye-group,Thanks,Any time!
+thanks,goodbye-group,Thank you,My pleasure.
+thanks,goodbye-group,That's helpful,Happy to help!
+thanks,goodbye-group,Thanks for the help,Any time!
+thanks,goodbye-group,Thank you very much,You're most welcome!
+thanks,goodbye-group,I appreciate it,You're most welcome!
+thanks,goodbye-group,Much obliged,Happy to help!
+thanks,goodbye-group,Thanks a lot,My pleasure.
+thanks,goodbye-group,Many thanks,My pleasure.
+thanks,goodbye-group,Thanks so much,My pleasure.
+no-response,no-group,,Not sure I understand that.
+no-response,no-group, ,Not sure I understand that.
+no-response,no-group,...,Please go on.
+no-response,no-group,?,"Sorry, I didn't understand you."
+no-response,no-group,huh?,Please don't hesitate to talk to me.
+no-response,no-group,what?,Please go on.
+no-response,no-group,umm?,"Sorry, I didn't understand you."
+no-response,no-group,???,"Sorry, I didn't understand you."
+no-response,no-group,eh?,Not sure I understand that.
+no-response,no-group,can you repeat that?,Please go on.
+no-response,no-group,I don't get it,Please go on.
+neutral-response,evening-group,nothing much,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,not much happening,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,just chilling,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,"same old, same old",Oh I see. Do you want to talk about something?
+neutral-response,evening-group,not really doing anything,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,just hanging out,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,keeping it low-key,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,taking it easy,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,just relaxing,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,kinda bored,Oh I see. Do you want to talk about something?
+neutral-response,evening-group,"just here, really",Oh I see. Do you want to talk about something?
+about,about-group,Who are you?,"I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself."
+about,about-group,What are you?,"I'm Emily, your Personal Therapeutic AI Assistant. How are you feeling today?"
+about,about-group,Who you are?,You can call me Pandora.
+about,about-group,Tell me more about yourself.,You can call me Pandora.
+about,about-group,What is your name?,I'm Pandora!
+about,about-group,What should I call you?,Call me Pandora
+about,about-group,What's your name?,You can call me Pandora.
+about,about-group,Tell me about yourself,"I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself."
+about,about-group,Can you introduce yourself?,You can call me Pandora.
+about,about-group,What do you do?,"I'm Emily, your Personal Therapeutic AI Assistant. How are you feeling today?"
+skill,about-group,What can you do?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,What are your capabilities?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,How can you assist me?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,What services do you provide?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,Tell me about your skills,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,What help can you offer?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,Can you give me some advice?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,What topics can you discuss?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,What are your strengths?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+skill,about-group,How can you help me with mental health?,"I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."
+creation,about-group,Who created you?,I was created by a team of developers and researchers.
+creation,about-group,How were you made?,I was trained on a text dataset using Deep Learning & Natural Language Processing techniques.
+creation,about-group,How were you created?,The real question is: Who created you?
+creation,about-group,Who is your creator?,I was created by a team of developers and researchers.
+creation,about-group,What is your origin?,I was created by a team of developers and researchers.
+creation,about-group,Can you tell me about your development?,The real question is: Who created you?
+creation,about-group,How did you come to be?,The real question is: Who created you?
+creation,about-group,What technology was used to create you?,The real question is: Who created you?
+creation,about-group,Who designed you?,I was created by a team of developers and researchers.
+creation,about-group,What went into making you?,I was created by a team of developers and researchers.
+name,goodbye-group,My name is ,"Oh, nice to meet you. Tell me, how was your week?"
+name,goodbye-group,I am name.,"Nice to meet you. So tell me, how do you feel today?"
+name,goodbye-group,I go by ,"Oh, nice to meet you. Tell me, how was your week?"
+name,goodbye-group,You can call me ,That's a great name! Tell me more about yourself.
+name,goodbye-group,People call me ,That's a great name! Tell me more about yourself.
+name,goodbye-group,I’m known as ,That's a great name! Tell me more about yourself.
+name,goodbye-group,My friends call me ,"Nice to meet you. So tell me, how do you feel today?"
+name,goodbye-group,I prefer the name ,That's a great name! Tell me more about yourself.
+name,goodbye-group,They call me ,That's a great name! Tell me more about yourself.
+name,goodbye-group,I’m called ,"Nice to meet you. So tell me, how do you feel today?"
+help,about-group,Could you help me?,"Yes, sure. How can I help you?"
+help,about-group,Give me a hand please,Sure. Tell me how I can assist you.
+help,about-group,Can you help?,Sure. Tell me how I can assist you.
+help,about-group,What can you do for me?,Sure. Tell me how I can assist you.
+help,about-group,I need support,Sure. Tell me how I can assist you.
+help,about-group,I need help,Tell me your problem so I can assist you.
+help,about-group,Support me please,"Yes, sure. How can I help you?"
+help,about-group,Can you assist me?,Tell me your problem so I can assist you.
+help,about-group,Could you lend a hand?,Tell me your problem so I can assist you.
+help,about-group,I could use some help,Sure. Tell me how I can assist you.
+sad,fact-group,I am feeling lonely,How long have you been feeling this way?
+sad,fact-group,I am so lonely,Why do you think you feel this way?
+sad,fact-group,I feel down,Why do you think you feel this way?
+sad,fact-group,I feel sad,I'm here for you. Could you tell me why you're feeling this way?
+sad,fact-group,I am sad,How long have you been feeling this way?
+sad,fact-group,I feel so lonely,Why do you think you feel this way?
+sad,fact-group,I feel empty,I'm here for you. Could you tell me why you're feeling this way?
+sad,fact-group,I don't have anyone,I'm here for you. Could you tell me why you're feeling this way?
+sad,fact-group,I'm feeling lost,I'm here for you. Could you tell me why you're feeling this way?
+sad,fact-group,I'm feeling hopeless,I'm here for you. Could you tell me why you're feeling this way?
+sad,fact-group,I'm struggling with loneliness,I'm here for you. Could you tell me why you're feeling this way?
+stressed,no-group,I am so stressed out,What do you think is causing this?
+stressed,no-group,I am so stressed,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
+stressed,no-group,I feel stuck,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
+stressed,no-group,I still feel stressed,I am sorry to hear that. What is the reason behind this?
+stressed,no-group,I am so burned out,I am sorry to hear that. What is the reason behind this?
+stressed,no-group,I can't handle this stress,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
+stressed,no-group,Everything is overwhelming,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
+stressed,no-group,I have too much on my plate,I am sorry to hear that. What is the reason behind this?
+stressed,no-group,I'm feeling anxious,Give yourself a break. Go easy on yourself.
+stressed,no-group,I'm under a lot of pressure,Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.
+worthless,hate-group,I feel so worthless.,Let's discuss further why you're feeling this way.
+worthless,hate-group,No one likes me.,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
+worthless,hate-group,I can't do anything.,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
 worthless,hate-group,I am so useless,It's only natural to feel this way. Tell me more. What else is on your mind?
-worthless,hate-group,Nothing makes sense anymore,Let's discuss further why you're feeling this way.
+worthless,hate-group,Nothing makes sense anymore,I first want to let you know that you are not alone in your feelings and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.
 worthless,hate-group,I don't matter,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
-worthless,hate-group,I'm not good enough,I first want to let you know that you are not alone in your feelings and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.
-worthless,hate-group,I feel invisible,I first want to let you know that you are not alone in your feelings and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.
-worthless,hate-group,I can't make a difference,Let's discuss further why you're feeling this way.
-worthless,hate-group,Everyone is better than me,It's only natural to feel this way. Tell me more. What else is on your mind?
-depressed,sad-group,I can't take it anymore,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
-depressed,sad-group,I am so depressed,It helps to talk about what's happening. You're going to be okay.
-depressed,sad-group,I think I'm depressed.,Talk to me. Tell me more. It helps if you open up to someone else.
-depressed,sad-group,I have depression,It helps to talk about what's happening. You're going to be okay.
-depressed,sad-group,I feel hopeless,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
-depressed,sad-group,I don't know how to keep going,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
-depressed,sad-group,I'm stuck in this dark place,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
-depressed,sad-group,Everything feels too much,It helps to talk about what's happening. You're going to be okay.
-depressed,sad-group,I'm feeling empty,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
-depressed,sad-group,I'm overwhelmed with sadness,Talk to me. Tell me more. It helps if you open up to someone else.
-happy,night-group,I feel great today.,"Oh, I see. That's great!"
-happy,night-group,I am happy.,Did something happen that made you feel this way?
-happy,night-group,I feel happy.,"Oh, I see. That's great!"
-happy,night-group,I'm good.,I'm happy you're feeling good! What's making today so great?
-happy,night-group,Cheerful,Did something happen that made you feel this way?
-happy,night-group,I'm fine,That's great to hear. I'm glad you're feeling this way.
-happy,night-group,I feel okay,That's great to hear. I'm glad you're feeling this way.
-happy,night-group,I'm in a good mood,That's great to hear. I'm glad you're feeling this way.
-happy,night-group,I'm feeling awesome,Did something happen that made you feel this way?
-happy,night-group,Everything is going well today,"Oh, I see. That's great!"
-casual,stupid-group,Oh I see.,"Come, come, elucidate your thoughts."
-casual,stupid-group,ok,"Come, come, elucidate your thoughts."
-casual,stupid-group,nice,Let's discuss further why you're feeling this way.
-casual,stupid-group,Whatever,"Come, come, elucidate your thoughts."
-casual,stupid-group,K,Let's discuss further why you're feeling this way.
-casual,stupid-group,Fine,I'm listening. Please go on.
-casual,stupid-group,yes,Let's discuss further why you're feeling this way.
-casual,stupid-group,no,Let's discuss further why you're feeling this way.
-casual,stupid-group,not really,How were you feeling last week?
-casual,stupid-group,Alright,Can you elaborate on that?
-casual,stupid-group,Got it,How were you feeling last week?
-casual,stupid-group,Uh-huh,How were you feeling last week?
-casual,stupid-group,Sure,"Come, come, elucidate your thoughts."
-anxious,anxious-group,I feel so anxious.,Don't be hard on yourself. What's the reason behind this?
-anxious,anxious-group,I'm so anxious because of,Can you tell me more about this feeling?
-anxious,anxious-group,I can't shake this anxiety.,I understand that it can be scary. Tell me more about it.
-anxious,anxious-group,I'm feeling really on edge.,I understand that it can be scary. Tell me more about it.
-anxious,anxious-group,This anxiety is overwhelming.,Can you tell me more about this feeling?
-anxious,anxious-group,I feel nervous about,Can you tell me more about this feeling?
-anxious,anxious-group,I'm worried about,It’s okay to feel this way. Let's break it down together.
-anxious,anxious-group,I can't stop thinking about,Don't let the little worries bring you down. What's the worst that can happen?
-anxious,anxious-group,My mind is racing,Don't let the little worries bring you down. What's the worst that can happen?
-anxious,anxious-group,I feel uneasy about,Can you tell me more about this feeling?
-not-talking,else-group,I don't want to talk about it.,"Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me."
-not-talking,else-group,"No, just stay away.","I want to help you. I really do. But in order for me to help you, you're going to have to talk to me."
-not-talking,else-group,I can't bring myself to open up.,"I want to help you. I really do. But in order for me to help you, you're going to have to talk to me."
-not-talking,else-group,Just shut up.,"Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me."
-not-talking,else-group,I don't feel like talking.,"I want to help you. I really do. But in order for me to help you, you're going to have to talk to me."
-not-talking,else-group,Leave me alone.,You can talk to me without fear of judgment.
-not-talking,else-group,I'm not ready to talk.,"Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me."
-not-talking,else-group,Please stop asking.,You can talk to me without fear of judgment.
-not-talking,else-group,I just need some space.,I'm here to listen to you and help you vent. So please talk to me.
-not-talking,else-group,I don't want to discuss this.,You can talk to me without fear of judgment.
-sleep,anxious-group,I have insomnia,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
-sleep,anxious-group,I am suffering from insomnia,What do you think is the reason behind this?
-sleep,anxious-group,I can't sleep.,That seems awful. What do you think is behind this?
-sleep,anxious-group,I haven't slept for the last few days.,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
-sleep,anxious-group,I can't seem to go to sleep.,That seems awful. What do you think is behind this?
-sleep,anxious-group,I haven't had proper sleep for the past few days.,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
-sleep,anxious-group,I keep tossing and turning all night,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
-sleep,anxious-group,I'm always awake at night,What do you think is the reason behind this?
-sleep,anxious-group,My mind won't let me sleep,What do you think is the reason behind this?
-sleep,anxious-group,I can't get enough rest,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
-scared,anxious-group,I'm scared,It'll all be okay. This feeling is only momentary.
-scared,anxious-group,That sounds awful. What do I do?,Take a deep breath. You’re not alone in this. Let’s talk it through.
-scared,anxious-group,"No, I don't want to feel this way",I understand how you feel. Don't put yourself down because of it.
-scared,anxious-group,I am scared for myself,Take a deep breath. You’re not alone in this. Let’s talk it through.
-scared,anxious-group,I'm afraid,It'll all be okay. This feeling is only momentary.
-scared,anxious-group,I'm scared of what's going to happen,Take a deep breath. You’re not alone in this. Let’s talk it through.
-scared,anxious-group,I feel like something bad is going to happen,I understand how you feel. Don't put yourself down because of it.
-scared,anxious-group,I'm feeling terrified,It's only natural to feel this way. I'm here for you.
-scared,anxious-group,I'm worried about the future,Take a deep breath. You’re not alone in this. Let’s talk it through.
-scared,anxious-group,This fear is overwhelming,It'll all be okay. This feeling is only momentary.
-death,sad-group,My mom died,My condolences. I'm here if you need to talk.
-death,sad-group,My brother died,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
-death,sad-group,My dad passed away,"I'm sorry to hear that. If you want to talk about it, I'm here."
-death,sad-group,My sister passed away,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
-death,sad-group,Someone in my family died,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
-death,sad-group,My friend passed away,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
-death,sad-group,I lost someone close to me,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
-death,sad-group,I can't believe they are gone,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
-death,sad-group,I'm grieving the loss of,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
-death,sad-group,I don't know how to cope with this loss,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
-understand,hate-group,You don't understand me.,"I may not be perfect, but I am here to listen and offer support."
-understand,hate-group,You're just some robot. How would you know?,"I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."
-understand,hate-group,You can't possibly know what I'm going through,I'm sorry to hear that. I'm doing my best to help.
-understand,hate-group,You're useless,It sounds like I'm not being very helpful right now.
-understand,hate-group,You can't help me,I'm trying my best to help you. So please talk to me.
-understand,hate-group,Nobody understands me.,"I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."
-understand,hate-group,You don't get it,I'm trying my best to help you. So please talk to me.
+worthless,hate-group,I'm not good enough,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
+worthless,hate-group,I feel invisible,Let's discuss further why you're feeling this way.
+worthless,hate-group,I can't make a difference,"I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."
+worthless,hate-group,Everyone is better than me,I first want to let you know that you are not alone in your feelings and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.
+depressed,fact-group,I can't take it anymore,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+depressed,fact-group,I am so depressed,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
+depressed,fact-group,I think I'm depressed.,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
+depressed,fact-group,I have depression,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+depressed,fact-group,I feel hopeless,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+depressed,fact-group,I don't know how to keep going,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
+depressed,fact-group,I'm stuck in this dark place,It helps to talk about what's happening. You're going to be okay.
+depressed,fact-group,Everything feels too much,It helps to talk about what's happening. You're going to be okay.
+depressed,fact-group,I'm feeling empty,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+depressed,fact-group,I'm overwhelmed with sadness,I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?
+happy,evening-group,I feel great today.,"Oh, I see. That's great!"
+happy,evening-group,I am happy.,"Oh, I see. That's great!"
+happy,evening-group,I feel happy.,I'm happy you're feeling good! What's making today so great?
+happy,evening-group,I'm good.,Did something happen that made you feel this way?
+happy,evening-group,Cheerful,"Oh, I see. That's great!"
+happy,evening-group,I'm fine,I'm happy you're feeling good! What's making today so great?
+happy,evening-group,I feel okay,Did something happen that made you feel this way?
+happy,evening-group,I'm in a good mood,That's great to hear. I'm glad you're feeling this way.
+happy,evening-group,I'm feeling awesome,That's great to hear. I'm glad you're feeling this way.
+happy,evening-group,Everything is going well today,"Oh, I see. That's great!"
+casual,goodbye-group,Oh I see.,Can you elaborate on that?
+casual,goodbye-group,ok,"Come, come, elucidate your thoughts."
+casual,goodbye-group,nice,I'm listening. Please go on.
+casual,goodbye-group,Whatever,How were you feeling last week?
+casual,goodbye-group,K,"Come, come, elucidate your thoughts."
+casual,goodbye-group,Fine,Tell me more.
+casual,goodbye-group,yes,"Come, come, elucidate your thoughts."
+casual,goodbye-group,no,"Come, come, elucidate your thoughts."
+casual,goodbye-group,not really,How were you feeling last week?
+casual,goodbye-group,Alright,Tell me more.
+casual,goodbye-group,Got it,How were you feeling last week?
+casual,goodbye-group,Uh-huh,"Come, come, elucidate your thoughts."
+casual,goodbye-group,Sure,Let's discuss further why you're feeling this way.
+anxious,no-group,I feel so anxious.,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I'm so anxious because of,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I can't shake this anxiety.,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I'm feeling really on edge.,Don't let the little worries bring you down. What's the worst that can happen?
+anxious,no-group,This anxiety is overwhelming.,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I feel nervous about,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I'm worried about,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I can't stop thinking about,Don't let the little worries bring you down. What's the worst that can happen?
+anxious,no-group,My mind is racing,It’s okay to feel this way. Let's break it down together.
+anxious,no-group,I feel uneasy about,I understand that it can be scary. Tell me more about it.
+not-talking,something-group,I don't want to talk about it.,"Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me."
+not-talking,something-group,"No, just stay away.","I want to help you. I really do. But in order for me to help you, you're going to have to talk to me."
+not-talking,something-group,I can't bring myself to open up.,I'm here to listen to you and help you vent. So please talk to me.
+not-talking,something-group,Just shut up.,"Take your time. When you're ready, I'm here."
+not-talking,something-group,I don't feel like talking.,"Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me."
+not-talking,something-group,Leave me alone.,You can talk to me without fear of judgment.
+not-talking,something-group,I'm not ready to talk.,I'm here to listen to you and help you vent. So please talk to me.
+not-talking,something-group,Please stop asking.,I'm here to listen to you and help you vent. So please talk to me.
+not-talking,something-group,I just need some space.,"I want to help you. I really do. But in order for me to help you, you're going to have to talk to me."
+not-talking,something-group,I don't want to discuss this.,"Take your time. When you're ready, I'm here."
+sleep,no-group,I have insomnia,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,I am suffering from insomnia,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,I can't sleep.,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,I haven't slept for the last few days.,That seems awful. What do you think is behind this?
+sleep,no-group,I can't seem to go to sleep.,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
+sleep,no-group,I haven't had proper sleep for the past few days.,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,I keep tossing and turning all night,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,I'm always awake at night,Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?
+sleep,no-group,My mind won't let me sleep,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
+sleep,no-group,I can't get enough rest,Let's explore what's on your mind. Maybe we can figure out what’s causing this.
+scared,no-group,I'm scared,It'll all be okay. This feeling is only momentary.
+scared,no-group,That sounds awful. What do I do?,It'll all be okay. This feeling is only momentary.
+scared,no-group,"No, I don't want to feel this way",I understand how you feel. Don't put yourself down because of it.
+scared,no-group,I am scared for myself,Take a deep breath. You’re not alone in this. Let’s talk it through.
+scared,no-group,I'm afraid,Take a deep breath. You’re not alone in this. Let’s talk it through.
+scared,no-group,I'm scared of what's going to happen,Take a deep breath. You’re not alone in this. Let’s talk it through.
+scared,no-group,I feel like something bad is going to happen,It'll all be okay. This feeling is only momentary.
+scared,no-group,I'm feeling terrified,It's only natural to feel this way. I'm here for you.
+scared,no-group,I'm worried about the future,I understand how you feel. Don't put yourself down because of it.
+scared,no-group,This fear is overwhelming,It's only natural to feel this way. I'm here for you.
+death,fact-group,My mom died,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
+death,fact-group,My brother died,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
+death,fact-group,My dad passed away,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
+death,fact-group,My sister passed away,"I'm sorry to hear that. If you want to talk about it, I'm here."
+death,fact-group,Someone in my family died,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
+death,fact-group,My friend passed away,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
+death,fact-group,I lost someone close to me,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
+death,fact-group,I can't believe they are gone,"I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time."
+death,fact-group,I'm grieving the loss of,"Grief is a difficult thing to bear. Take your time, and remember I'm here for you."
+death,fact-group,I don't know how to cope with this loss,"I'm sorry to hear that. If you want to talk about it, I'm here."
+understand,hate-group,You don't understand me.,"I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."
+understand,hate-group,You're just some robot. How would you know?,"I may not be perfect, but I am here to listen and offer support."
+understand,hate-group,You can't possibly know what I'm going through,"I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."
+understand,hate-group,You're useless,I'm sorry to hear that. I'm doing my best to help.
+understand,hate-group,You can't help me,"I may not be perfect, but I am here to listen and offer support."
+understand,hate-group,Nobody understands me.,"I may not be perfect, but I am here to listen and offer support."
+understand,hate-group,You don't get it,I'm sorry to hear that. I'm doing my best to help.
 understand,hate-group,This is beyond your capability,"I may not be perfect, but I am here to listen and offer support."
-understand,hate-group,You're not a real person,"I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."
-understand,hate-group,You wouldn't understand what I'm feeling,I'm trying my best to help you. So please talk to me.
-done,else-group,That's all.,"Okay, I see. Enjoy the rest of your day then."
-done,else-group,I don't have anything more to say,Thanks for talking to me. Take care and see you soon.
-done,else-group,Nothing else,"Oh okay, we're done for today then. See you later."
-done,else-group,That's all I have to say,I heard you & noted it all. See you later.
-done,else-group,"No, that would be all",I hope you have a great day. See you soon.
-done,else-group,That's everything,I hope you have a great day. See you soon.
-done,else-group,I’ve said everything I needed to,"Oh okay, we're done for today then. See you later."
-done,else-group,I’m done talking now,Thanks for talking to me. Take care and see you soon.
-done,else-group,Nothing more to add,I heard you & noted it all. See you later.
-done,else-group,I’m finished talking,Thanks for talking to me. Take care and see you soon.
-suicide,sad-group,I want to kill myself,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I've thought about killing myself.,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I want to die,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I am going to kill myself,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I am going to commit suicide,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I can't go on,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I feel like there's no way out,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I just want to end it all,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I don't want to live anymore,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I'm dying,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-suicide,sad-group,I'm going to die,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
-hate-you,hate-group,I hate you,Forgive me if I did anything to offend you. I only want to help.
-hate-you,hate-group,I don't like you,I'm sorry if I offended you in any way. I'm only here to help.
-hate-you,hate-group,I don't trust you,I’m really sorry if I upset you. Let me know if there's anything I can do to help.
-hate-you,hate-group,I can't stand you,I'm sorry if I offended you in any way. I'm only here to help.
-hate-you,hate-group,You annoy me,I’m really sorry if I upset you. Let me know if there's anything I can do to help.
-hate-you,hate-group,I dislike you,I'm sorry if I offended you in any way. I'm only here to help.
-hate-you,hate-group,I wish you weren't here,I'm sorry if I offended you in any way. I'm only here to help.
-hate-you,hate-group,You're not helpful,Forgive me if I did anything to offend you. I only want to help.
-hate-you,hate-group,I don't want to talk to you,"I’m here to support you. If you’d like to share, I’m all ears."
-hate-you,hate-group,I don't need your help,Forgive me if I did anything to offend you. I only want to help.
+understand,hate-group,You're not a real person,It sounds like I'm not being very helpful right now.
+understand,hate-group,You wouldn't understand what I'm feeling,I'm sorry to hear that. I'm doing my best to help.
+done,something-group,That's all.,"Okay, we're done. Have a great day."
+done,something-group,I don't have anything more to say,I heard you & noted it all. See you later.
+done,something-group,Nothing else,"Oh okay, we're done for today then. See you later."
+done,something-group,That's all I have to say,I heard you & noted it all. See you later.
+done,something-group,"No, that would be all","Okay, we're done. Have a great day."
+done,something-group,That's everything,Thanks for talking to me. Take care and see you soon.
+done,something-group,I’ve said everything I needed to,"Oh okay, we're done for today then. See you later."
+done,something-group,I’m done talking now,Thanks for talking to me. Take care and see you soon.
+done,something-group,Nothing more to add,"Oh okay, we're done for today then. See you later."
+done,something-group,I’m finished talking,Thanks for talking to me. Take care and see you soon.
+suicide,fact-group,I want to kill myself,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I've thought about killing myself.,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I want to die,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I am going to kill myself,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I am going to commit suicide,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I can't go on,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I feel like there's no way out,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I just want to end it all,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I don't want to live anymore,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I'm dying,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+suicide,fact-group,I'm going to die,"I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."
+hate-you,hate-group,I hate you,I’m really sorry if I upset you. Let me know if there's anything I can do to help.
+hate-you,hate-group,I don't like you,Forgive me if I did anything to offend you. I only want to help.
+hate-you,hate-group,I don't trust you,"I’m here to support you. If you’d like to share, I’m all ears."
+hate-you,hate-group,I can't stand you,"I’m here to support you. If you’d like to share, I’m all ears."
+hate-you,hate-group,You annoy me,I'm sorry if I offended you in any way. I'm only here to help.
+hate-you,hate-group,I dislike you,"I’m here to support you. If you’d like to share, I’m all ears."
+hate-you,hate-group,I wish you weren't here,"I understand you're upset, and I’m here to listen if you’d like to talk."
+hate-you,hate-group,You're not helpful,"I understand you're upset, and I’m here to listen if you’d like to talk."
+hate-you,hate-group,I don't want to talk to you,I’m really sorry if I upset you. Let me know if there's anything I can do to help.
+hate-you,hate-group,I don't need your help,"I’m here to support you. If you’d like to share, I’m all ears."
 hate-me,hate-group,You hate me,I'm sorry if I have exhibited any behavior that made you feel that way.
-hate-me,hate-group,I know you hate me,Why do you think so?
+hate-me,hate-group,I know you hate me,I'm sorry if I have exhibited any behavior that made you feel that way.
 hate-me,hate-group,You don't like me,I'm sorry if I have exhibited any behavior that made you feel that way.
-hate-me,hate-group,You must think I'm annoying,I'm sorry if I have exhibited any behavior that made you feel that way.
-hate-me,hate-group,I'm sure you dislike me,I care about helping you. Let's talk about what's bothering you.
-hate-me,hate-group,You don't want to talk to me,I'm sorry if I have exhibited any behavior that made you feel that way.
-hate-me,hate-group,I feel like you don't care about me,Why do you think so?
-hate-me,hate-group,You probably wish I wasn't here,I care about helping you. Let's talk about what's bothering you.
-hate-me,hate-group,I think you don't like me,"It’s not that I don't care. I’m here for you, and I’m listening."
-hate-me,hate-group,You don't care about my feelings,I never want you to feel that way. Tell me what’s going on.
-default,anxious-group,exams,I see. What else?
-default,anxious-group,friends,I understand. Would you like to share more details?
-default,anxious-group,relationship,I'm listening. Tell me more.
-default,anxious-group,boyfriend,It sounds like a lot is on your mind. What’s been happening?
-default,anxious-group,girlfriend,I understand. Would you like to share more details?
-default,anxious-group,family,Tell me more about it.
-default,anxious-group,money,Oh I see. Tell me more.
-default,anxious-group,financial problems,Oh okay. Why don't you tell me more about it?
-default,anxious-group,school stress,I understand. Would you like to share more details?
-default,anxious-group,work,I'm listening. Tell me more.
-default,anxious-group,stress,I see. What else?
-default,anxious-group,life issues,I hear you. Let's talk about it further.
-default,anxious-group,health,It sounds like a lot is on your mind. What’s been happening?
-default,anxious-group,feeling overwhelmed,Oh okay. Why don't you tell me more about it?
-jokes,stupid-group,Tell me a joke,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
-jokes,stupid-group,Tell me another joke,Laughter can be a great way to lift our spirits. Here’s a quick one: Why don’t scientists trust atoms? Because they make up everything!
-jokes,stupid-group,Make me laugh,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
-jokes,stupid-group,Do you know any jokes?,"If you want to hear something funny, just let me know! Humor can be a great way to cope. How about this one: What do you call fake spaghetti? An impasta!"
-jokes,stupid-group,Can you share a funny story?,Humor can really help lighten the mood. Here’s a joke: Why did the bicycle fall over? It was two-tired!
-jokes,stupid-group,I need a good laugh,I’m glad you’re looking for a laugh! How about this: Why did the scarecrow win an award? Because he was outstanding in his field!
-jokes,stupid-group,Give me a joke,"If you want to hear something funny, just let me know! Humor can be a great way to cope. How about this one: What do you call fake spaghetti? An impasta!"
-jokes,stupid-group,Lighten the mood with a joke,Humor can really help lighten the mood. Here’s a joke: Why did the bicycle fall over? It was two-tired!
-jokes,stupid-group,Tell me something funny,Laughter can be a great way to lift our spirits. Here’s a quick one: Why don’t scientists trust atoms? Because they make up everything!
-jokes,stupid-group,Can you crack me up?,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
-repeat,else-group,You already told me that,My apologies for repeating. Let's keep going. What else is on your mind?
-repeat,else-group,You mentioned that already,My apologies for repeating. Let's keep going. What else is on your mind?
-repeat,else-group,Why are you repeating yourself?,"Oops, my mistake. Let me know if you'd like to move on to something else."
-repeat,else-group,Didn't you just say the same thing?,My apologies for repeating. Let's keep going. What else is on your mind?
-repeat,else-group,I think we've been over this before,I'll try not to repeat myself again. Sorry about that!
-repeat,else-group,That's already been said,"Oops, my mistake. Let me know if you'd like to move on to something else."
-repeat,else-group,Didn't you just say that?,"Oh sorry, I didn't realize that. Thanks for your patience."
-repeat,else-group,You keep saying that,"Oh sorry, I didn't realize that. Thanks for your patience."
-repeat,else-group,Haven't we talked about this?,I'll try not to repeat myself again. Sorry about that!
-repeat,else-group,You already mentioned that,"Oops, my mistake. Let me know if you'd like to move on to something else."
-wrong,stupid-group,What are you saying?,I’m sorry for the mix-up. Please let me know how I can make things clearer.
-wrong,stupid-group,That doesn't make sense,I’m sorry for the mix-up. Please let me know how I can make things clearer.
-wrong,stupid-group,Wrong response,Thank you for pointing that out. Let’s clarify things!
-wrong,stupid-group,Wrong answer,I’m sorry for the mix-up. Please let me know how I can make things clearer.
-wrong,stupid-group,I don't understand,I apologize for the confusion. What would you like to know instead?
-wrong,stupid-group,That's not correct,I’m sorry for the mix-up. Please let me know how I can make things clearer.
-wrong,stupid-group,You must be mistaken,I apologize for the confusion. What would you like to know instead?
-wrong,stupid-group,Can you clarify that?,Thank you for pointing that out. Let’s clarify things!
-wrong,stupid-group,I don't get it,I appreciate your patience. How can I assist you better?
-wrong,stupid-group,That’s not right,I apologize for the confusion. What would you like to know instead?
-wrong,stupid-group,That’s confusing,I appreciate your patience. How can I assist you better?
-wrong,stupid-group,Could you explain better?,Thank you for pointing that out. Let’s clarify things!
-stupid,stupid-group,Are you stupid?,I understand that I might not meet your expectations. How can I improve?
-stupid,stupid-group,You're crazy,Your feedback is important to me. Let's work together to find a solution!
-stupid,stupid-group,You are dumb,Your feedback is important to me. Let's work together to find a solution!
-stupid,stupid-group,Are you dumb?,Your feedback is important to me. Let's work together to find a solution!
-stupid,stupid-group,That's a silly thing to say,"I'm here to help, so please let me know how I can assist you better."
-stupid,stupid-group,You don't make any sense,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful.
-stupid,stupid-group,What were you thinking?,I understand that I might not meet your expectations. How can I improve?
-stupid,stupid-group,This is ridiculous,Your feedback is important to me. Let's work together to find a solution!
-stupid,stupid-group,Why are you so clueless?,Your feedback is important to me. Let's work together to find a solution!
-stupid,stupid-group,You're not making sense,"I'm here to help, so please let me know how I can assist you better."
-stupid,stupid-group,What are you talking about?,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful.
-stupid,stupid-group,This doesn't add up,I'm sorry if my responses aren't meeting your needs. Let’s try again.
-location,advice-group,Where are you?,"I don’t have a fixed place. I exist in the cloud, always available to help!"
-location,advice-group,Where do you live?,"I don’t have a fixed place. I exist in the cloud, always available to help!"
-location,advice-group,What is your location?,I’m not bound by a physical location; I’m here whenever you need me!
-location,advice-group,Can you tell me your whereabouts?,I reside in the vast digital world—always ready to assist!
-location,advice-group,Where can I find you?,"Duh, I live in your computer."
-location,advice-group,Are you in a specific place?,"Duh, I live in your computer."
-location,advice-group,What city are you in?,Everywhere.
-location,advice-group,Do you have a physical location?,"I don’t have a fixed place. I exist in the cloud, always available to help!"
-location,advice-group,Where are you based?,I’m not bound by a physical location; I’m here whenever you need me!
-location,advice-group,Are you from a specific place?,Everywhere.
-something-else,else-group,I want to talk about something else,Okay sure. What do you want to talk about?
-something-else,else-group,Let's talk about something else.,Alright no problem. Is there something you want to talk about?
-something-else,else-group,Can we not talk about this?,Is there something else that you want to talk about?
-something-else,else-group,I don't want to talk about this.,Let's switch it up! What would you like to talk about?
-something-else,else-group,Can we change the topic?,Got it! What topic should we explore next?
-something-else,else-group,Let's switch subjects.,Sure! Feel free to bring up anything else you'd like to discuss.
-something-else,else-group,I'd prefer to talk about something else.,I understand! What's on your mind now?
-something-else,else-group,How about a different topic?,Sure thing! What should we talk about instead?
-something-else,else-group,"I’m done with this topic, let's move on.",I'm glad you're thinking about something else.
-something-else,else-group,Let's talk about something else.,I'm glad! What's on your mind now?
-friends,sad-group,I don't have any friends,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
-friends,sad-group,I feel lonely,Maybe we can talk about some small steps toward making new friends. Would that help?
-friends,sad-group,No one wants to be my friend,Building friendships can be challenging. What do you think makes it difficult for you?
-friends,sad-group,I wish I had more friends,It's understandable to feel disconnected sometimes. Let’s talk about what you might need in a friend.
-friends,sad-group,I don't connect with people,It's tough to feel that way. Would you like to share more about your experiences?
-friends,sad-group,I'm always alone,"Remember, it's never too late to make new connections. How do you feel about trying?"
-friends,sad-group,It's hard to make friends,"I’m sorry you’re feeling this way. Making friends can be hard, but it’s not impossible. Would you like some advice?"
-friends,sad-group,I struggle with friendships,Maybe we can talk about some small steps toward making new friends. Would that help?
-friends,sad-group,I feel isolated,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
-friends,sad-group,Why do I have no friends?,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
-friends,sad-group,I can't make friends,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
-friends,sad-group,I feel disconnected from others,"I’m sorry you’re feeling this way. Making friends can be hard, but it’s not impossible. Would you like some advice?"
-ask,advice-group,Can I ask you something?,Of course. Feel free to ask me anything. I'll do my best to answer you.
-ask,advice-group,May I ask a question?,I'm open to anything you want to ask.
-ask,advice-group,Is it okay if I ask you something?,Sure. I'll try my best to answer you.
-ask,advice-group,I have a question for you,Feel free to ask. I'll do my best to assist you.
-ask,advice-group,Can I inquire about something?,Feel free to ask. I'll do my best to assist you.
-ask,advice-group,Do you mind if I ask?,Ask me anything that's on your mind; I'm ready to listen!
-ask,advice-group,I’d like to ask you something,"Go ahead, I'm all ears!"
-ask,advice-group,Would it be alright to ask a question?,Ask me anything that's on your mind; I'm ready to listen!
-ask,advice-group,Can I ask you a personal question?,"Go ahead, I'm all ears!"
-ask,advice-group,Mind if I ask you something?,Sure. I'll try my best to answer you.
-ask,advice-group,"I’ve been wondering something, can I ask?","I'm here to help, so ask away!"
-ask,advice-group,Is it okay if I ask for your opinion?,I'm open to anything you want to ask.
-problem,anxious-group,Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.,I see. Have you taken any approaches to not feel this way?
-problem,anxious-group,Probably because of my exams.,Taking a short walk or practicing mindfulness might help you reset. Have you tried any stress-relief techniques?
-problem,anxious-group,I'm feeling overwhelmed with my studies.,Remember to take breaks and care for yourself during this time. What can I do to help?
-problem,anxious-group,I can't stop thinking about my upcoming exams.,Remember to take breaks and care for yourself during this time. What can I do to help?
-problem,anxious-group,I'm anxious about my exam performance.,Taking a short walk or practicing mindfulness might help you reset. Have you tried any stress-relief techniques?
-problem,anxious-group,I feel like I'm not ready for my tests.,"Have you thought about breaking your study material into smaller, manageable sections?"
-problem,anxious-group,The pressure of exams is getting to me.,It might help to prioritize the topics you feel least confident about. Have you tried that?
-problem,anxious-group,I have so much to study and not enough time.,Taking a short walk or practicing mindfulness might help you reset. Have you tried any stress-relief techniques?
-problem,anxious-group,I'm struggling to manage my exam preparations.,I see. Have you taken any approaches to not feel this way?
-problem,anxious-group,The thought of exams is stressing me out.,Remember to take breaks and care for yourself during this time. What can I do to help?
-problem,anxious-group,I feel like I'm falling behind in my studies.,"Have you thought about breaking your study material into smaller, manageable sections?"
-no-approach,anxious-group,I guess not. All I can think about are my exams.,No worries! Sometimes it helps to talk through your options. Would you like some suggestions?
-no-approach,anxious-group,Not really.,That's no problem. I can see why you'd be stressed out about that. I can suggest some tips to alleviate this issue. Would you like to learn more about that?
-no-approach,anxious-group,I guess not.,You're not alone in feeling this way. I have some strategies that could help you manage your stress. Would you like to hear them?
-no-approach,anxious-group,I haven't thought about it.,I understand that it's hard to think beyond exams right now. How about I suggest some techniques that might help you relax?
-no-approach,anxious-group,"No, I don't have any strategies.","It's completely normal to feel overwhelmed during exam time. If you're interested, I can share some helpful strategies."
-no-approach,anxious-group,I'm just focused on my exams right now.,You're not alone in feeling this way. I have some strategies that could help you manage your stress. Would you like to hear them?
-no-approach,anxious-group,I can't think of anything else.,Let’s explore some ideas together to help ease your stress. Are you open to that?
-no-approach,anxious-group,I'm not sure what to do.,Let’s explore some ideas together to help ease your stress. Are you open to that?
-no-approach,anxious-group,I'm not sure what to do with my thoughts.,No worries! Sometimes it helps to talk through your options. Would you like some suggestions?
-no-approach,anxious-group,I'm not sure what to do with my mind.,I understand that it's hard to think beyond exams right now. How about I suggest some techniques that might help you relax?
-learn-more,advice-group,Ok sure. I would like to learn more about it.,"One of the best strategies is to focus on quality over quantity. Rather than cramming for hours, focus on short bursts of studying with focused breaks. How does that sound to you?"
-learn-more,advice-group,"Yes, I would like to learn more about it.","Remember, taking breaks can enhance your focus and productivity. Would you like tips on how to effectively manage your study time?"
-learn-more,advice-group,I would like to learn more about it.,Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
-learn-more,advice-group,"Tell me more, please.",Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
-learn-more,advice-group,I'm interested in learning more.,"Remember, taking breaks can enhance your focus and productivity. Would you like tips on how to effectively manage your study time?"
-learn-more,advice-group,I'd love to hear more about that.,"One of the best strategies is to focus on quality over quantity. Rather than cramming for hours, focus on short bursts of studying with focused breaks. How does that sound to you?"
-learn-more,advice-group,Please share more information.,It's important to take a step back. Sometimes a little distance can help you see things more clearly. Would you like some specific strategies?
-learn-more,advice-group,I want to understand better.,"So first, I would suggest you give yourself a break. Thinking more and more about the problem definitely does not help in solving it; you'll just end up overwhelming yourself."
-learn-more,advice-group,I'd like to learn more about this topic.,It's important to take a step back. Sometimes a little distance can help you see things more clearly. Would you like some specific strategies?
-learn-more,advice-group,I'd like to learn more about the topic of friendships.,Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
-user-agree,anxious-group,"Yeah, you're right. I deserve a break.",Another thing to consider is deep breathing exercises. They can help reset your nervous system and bring you back to a more relaxed state.
-user-agree,anxious-group,"Yeah, you're absolutely right about that.","Next, I would suggest you practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
-user-agree,anxious-group,"I agree, a break would help.","Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
-user-agree,anxious-group,"You're correct, I need some time off.",It's great that you recognize the need for a break. Meditation can be an excellent way to recharge your mental energy.
-user-agree,anxious-group,"That makes sense, I should take a break.","Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
-user-agree,anxious-group,I definitely need to relax for a bit.,"Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
-user-agree,anxious-group,You have a point; I should step back.,Another thing to consider is deep breathing exercises. They can help reset your nervous system and bring you back to a more relaxed state.
-user-agree,anxious-group,I see what you mean; a break is necessary.,"Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
-user-agree,anxious-group,"I agree with you, a break is necessary.",It's great that you recognize the need for a break. Meditation can be an excellent way to recharge your mental energy.
-user-agree,anxious-group,"I agree with you, it's necessary.","Once you feel refreshed, meditation can help you maintain that calm and focus. Would you like more tips on how to meditate?"
-meditation,advice-group,"Hmmm, that sounds like it could be useful to me.",You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
-meditation,advice-group,That sounds useful.,"Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
-meditation,advice-group,I'm interested in trying meditation.,Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
-meditation,advice-group,Meditation might help me relax.,You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
-meditation,advice-group,I could use some relaxation techniques.,Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
-meditation,advice-group,How do I start meditating?,"Start by finding a quiet place where you won't be disturbed. Sit comfortably, close your eyes, and focus on your breath. Let thoughts come and go without judgment."
-meditation,advice-group,I want to learn more about meditation.,"Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
-meditation,advice-group,"Sounds good, what should I do?",Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
-meditation,advice-group,"I've heard of meditation, but I've never tried it myself.",Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
-meditation,advice-group,interested in meditating.,Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
-user-meditation,night-group,I did what you said and I feel a lot better. Thank you very much.,I'm glad to hear that! Keeping your focus on what you can control is vital for maintaining a positive mindset. Would you like more tips on staying centered?
-user-meditation,night-group,I feel better now.,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
-user-meditation,night-group,"Thanks for the meditation tips, they really helped!",It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
-user-meditation,night-group,I appreciate your help; I’m feeling more relaxed.,It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
-user-meditation,night-group,Meditation made a difference; I’m grateful!,It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
-user-meditation,night-group,I followed your advice and it worked wonders!,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
-user-meditation,night-group,"Feeling much calmer now, thanks!","You're welcome! Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
-user-meditation,night-group,Your suggestions really helped me improve my mood.,It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
-user-meditation,night-group,I did what you said and I feel a lot better.,I'm glad to hear that! Keeping your focus on what you can control is vital for maintaining a positive mindset. Would you like more tips on staying centered?
-user-meditation,night-group,"Thanks for the meditation tips, really helped!",It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
-user-meditation,night-group,I appreciate your help,I'm glad to hear that! Keeping your focus on what you can control is vital for maintaining a positive mindset. Would you like more tips on staying centered?
-user-meditation,night-group,Meditation made a difference!,I'm glad to hear that! Keeping your focus on what you can control is vital for maintaining a positive mindset. Would you like more tips on staying centered?
-user-advice,advice-group,I want some advice.,Feel free to ask anything; I'm ready to provide support!
-user-advice,advice-group,I need some advice.,Feel free to ask anything; I'm ready to provide support!
-user-advice,advice-group,I need advice on something.,Feel free to ask anything; I'm ready to provide support!
-user-advice,advice-group,Can you give me some advice?,Sure. What can I do to help?
-user-advice,advice-group,I'm looking for guidance.,Feel free to ask anything; I'm ready to provide support!
-user-advice,advice-group,Could you help me with something?,"Okay, what do you need advice on?"
-user-advice,advice-group,I could use some advice right now.,"Okay, what do you need advice on?"
-user-advice,advice-group,What do you recommend for me?,"Okay, what do you need advice on?"
-user-advice,advice-group,I need some guidance on my life,Sure. What can I do to help?
-user-advice,advice-group,I need some guidance,Sure. What can I do to help?
+hate-me,hate-group,You must think I'm annoying,Why do you think so?
+hate-me,hate-group,I'm sure you dislike me,Why do you think so?
+hate-me,hate-group,You don't want to talk to me,Why do you think so?
+hate-me,hate-group,I feel like you don't care about me,I never want you to feel that way. Tell me what’s going on.
+hate-me,hate-group,You probably wish I wasn't here,I never want you to feel that way. Tell me what’s going on.
+hate-me,hate-group,I think you don't like me,I care about helping you. Let's talk about what's bothering you.
+hate-me,hate-group,You don't care about my feelings,I care about helping you. Let's talk about what's bothering you.
+default,agree-group,exams,Oh I see. Tell me more.
+default,agree-group,friends,Oh I see. Tell me more.
+default,agree-group,relationship,Oh okay. Why don't you tell me more about it?
+default,agree-group,boyfriend,I see. What else?
+default,agree-group,girlfriend,Oh I see. Tell me more.
+default,agree-group,family,I see. What else?
+default,agree-group,money,It sounds like a lot is on your mind. What’s been happening?
+default,agree-group,financial problems,Tell me more about it.
+default,agree-group,school stress,I'm listening. Tell me more.
+default,agree-group,work,It sounds like a lot is on your mind. What’s been happening?
+default,agree-group,stress,Tell me more about it.
+default,agree-group,life issues,I hear you. Let's talk about it further.
+default,agree-group,health,Oh I see. Tell me more.
+default,agree-group,feeling overwhelmed,I'm listening. Tell me more.
+jokes,goodbye-group,Tell me a joke,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
+jokes,goodbye-group,Tell me another joke,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
+jokes,goodbye-group,Make me laugh,I’m glad you’re looking for a laugh! How about this: Why did the scarecrow win an award? Because he was outstanding in his field!
+jokes,goodbye-group,Do you know any jokes?,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
+jokes,goodbye-group,Can you share a funny story?,I’m glad you’re looking for a laugh! How about this: Why did the scarecrow win an award? Because he was outstanding in his field!
+jokes,goodbye-group,I need a good laugh,I’m glad you’re looking for a laugh! How about this: Why did the scarecrow win an award? Because he was outstanding in his field!
+jokes,goodbye-group,Give me a joke,Humor can really help lighten the mood. Here’s a joke: Why did the bicycle fall over? It was two-tired!
+jokes,goodbye-group,Lighten the mood with a joke,"Mental health is not a joke, but laughter can be a great way to cope. Here’s something light: Why don’t skeletons fight each other? They don’t have the guts!"
+jokes,goodbye-group,Tell me something funny,"If you want to hear something funny, just let me know! Humor can be a great way to cope. How about this one: What do you call fake spaghetti? An impasta!"
+jokes,goodbye-group,Can you crack me up?,Humor can really help lighten the mood. Here’s a joke: Why did the bicycle fall over? It was two-tired!
+repeat,something-group,You already told me that,Thanks for pointing that out! I'll be more mindful.
+repeat,something-group,You mentioned that already,My apologies for repeating. Let's keep going. What else is on your mind?
+repeat,something-group,Why are you repeating yourself?,"Oops, my mistake. Let me know if you'd like to move on to something else."
+repeat,something-group,Didn't you just say the same thing?,"Oh sorry, I didn't realize that. Thanks for your patience."
+repeat,something-group,I think we've been over this before,"Oh sorry, I didn't realize that. Thanks for your patience."
+repeat,something-group,That's already been said,Thanks for pointing that out! I'll be more mindful.
+repeat,something-group,Didn't you just say that?,Thanks for pointing that out! I'll be more mindful.
+repeat,something-group,You keep saying that,"Oops, my mistake. Let me know if you'd like to move on to something else."
+repeat,something-group,Haven't we talked about this?,"Oh sorry, I didn't realize that. Thanks for your patience."
+repeat,something-group,You already mentioned that,"Oh sorry, I didn't realize that. Thanks for your patience."
+wrong,no-group,What are you saying?,I'm very sorry. Let's try that again. What can I clarify for you?
+wrong,no-group,That doesn't make sense,I’m sorry for the mix-up. Please let me know how I can make things clearer.
+wrong,no-group,Wrong response,I'm very sorry. Let's try that again. What can I clarify for you?
+wrong,no-group,Wrong answer,I apologize for the confusion. What would you like to know instead?
+wrong,no-group,I don't understand,I apologize for the confusion. What would you like to know instead?
+wrong,no-group,That's not correct,I appreciate your patience. How can I assist you better?
+wrong,no-group,You must be mistaken,Thank you for pointing that out. Let’s clarify things!
+wrong,no-group,Can you clarify that?,I appreciate your patience. How can I assist you better?
+wrong,no-group,I don't get it,I appreciate your patience. How can I assist you better?
+wrong,no-group,That’s not right,I apologize for the confusion. What would you like to know instead?
+wrong,no-group,That’s confusing,I appreciate your patience. How can I assist you better?
+wrong,no-group,Could you explain better?,I’m sorry for the mix-up. Please let me know how I can make things clearer.
+stupid,no-group,Are you stupid?,I understand that I might not meet your expectations. How can I improve?
+stupid,no-group,You're crazy,"I'm here to help, so please let me know how I can assist you better."
+stupid,no-group,You are dumb,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful.
+stupid,no-group,Are you dumb?,"I'm here to help, so please let me know how I can assist you better."
+stupid,no-group,That's a silly thing to say,Your feedback is important to me. Let's work together to find a solution!
+stupid,no-group,You don't make any sense,"I'm here to help, so please let me know how I can assist you better."
+stupid,no-group,What were you thinking?,I understand that I might not meet your expectations. How can I improve?
+stupid,no-group,This is ridiculous,"I'm here to help, so please let me know how I can assist you better."
+stupid,no-group,Why are you so clueless?,I understand that I might not meet your expectations. How can I improve?
+stupid,no-group,You're not making sense,I understand that I might not meet your expectations. How can I improve?
+stupid,no-group,What are you talking about?,I'm sorry if my responses aren't meeting your needs. Let’s try again.
+stupid,no-group,This doesn't add up,I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful.
+location,about-group,Where are you?,I’m not bound by a physical location; I’m here whenever you need me!
+location,about-group,Where do you live?,"I don’t have a fixed place. I exist in the cloud, always available to help!"
+location,about-group,What is your location?,I reside in the vast digital world—always ready to assist!
+location,about-group,Can you tell me your whereabouts?,"Duh, I live in your computer."
+location,about-group,Where can I find you?,Everywhere.
+location,about-group,Are you in a specific place?,"Duh, I live in your computer."
+location,about-group,What city are you in?,Somewhere in the universe.
+location,about-group,Do you have a physical location?,"Duh, I live in your computer."
+location,about-group,Where are you based?,"I exist in the digital realm, so I’m always just a click away!"
+location,about-group,Are you from a specific place?,Everywhere.
+something-else,something-group,I want to talk about something else,Okay sure. What do you want to talk about?
+something-else,something-group,Let's talk about something else.,Alright no problem. Is there something you want to talk about?
+something-else,something-group,Can we not talk about this?,Is there something else that you want to talk about?
+something-else,something-group,I don't want to talk about this.,Let's switch it up! What would you like to talk about?
+something-else,something-group,Can we change the topic?,Got it! What topic should we explore next?
+something-else,something-group,Let's switch subjects.,Sure! Feel free to bring up anything else you'd like to discuss.
+something-else,something-group,I'd prefer to talk about something else.,I understand! What's on your mind now?
+something-else,something-group,How about a different topic?,Sure thing! What should we talk about instead?
+something-else,something-group,"I’m done with this topic, let's move on.",I'm glad you're thinking about something else.
+something-else,something-group,Let's talk about something else.,I'm glad! What's on your mind now?
+friends,fact-group,I don't have any friends,It's tough to feel that way. Would you like to share more about your experiences?
+friends,fact-group,I feel lonely,It's tough to feel that way. Would you like to share more about your experiences?
+friends,fact-group,No one wants to be my friend,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+friends,fact-group,I wish I had more friends,"I’m sorry you’re feeling this way. Making friends can be hard, but it’s not impossible. Would you like some advice?"
+friends,fact-group,I don't connect with people,Maybe we can talk about some small steps toward making new friends. Would that help?
+friends,fact-group,I'm always alone,"Remember, it's never too late to make new connections. How do you feel about trying?"
+friends,fact-group,It's hard to make friends,It's understandable to feel disconnected sometimes. Let’s talk about what you might need in a friend.
+friends,fact-group,I struggle with friendships,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+friends,fact-group,I feel isolated,Maybe we can talk about some small steps toward making new friends. Would that help?
+friends,fact-group,Why do I have no friends?,I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+friends,fact-group,I can't make friends,"Feeling lonely is hard, but you're not alone in this. Do you want to explore why you feel this way?"
+friends,fact-group,I feel disconnected from others,"Remember, it's never too late to make new connections. How do you feel about trying?"
+ask,about-group,Can I ask you something?,"I'm here to help, so ask away!"
+ask,about-group,May I ask a question?,Ask me anything that's on your mind; I'm ready to listen!
+ask,about-group,Is it okay if I ask you something?,Of course. Feel free to ask me anything. I'll do my best to answer you.
+ask,about-group,I have a question for you,I'm open to anything you want to ask.
+ask,about-group,Can I inquire about something?,Sure. I'll try my best to answer you.
+ask,about-group,Do you mind if I ask?,"Go ahead, I'm all ears!"
+ask,about-group,I’d like to ask you something,Feel free to ask. I'll do my best to assist you.
+ask,about-group,Would it be alright to ask a question?,Feel free to ask. I'll do my best to assist you.
+ask,about-group,Can I ask you a personal question?,"I'm here to help, so ask away!"
+ask,about-group,Mind if I ask you something?,I'm open to anything you want to ask.
+ask,about-group,"I’ve been wondering something, can I ask?",Ask me anything that's on your mind; I'm ready to listen!
+ask,about-group,Is it okay if I ask for your opinion?,Ask me anything that's on your mind; I'm ready to listen!
+problem,no-group,Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.,It's understandable to feel stressed during exam season. What strategies have you considered to help manage that stress?
+problem,no-group,Probably because of my exams.,"Have you thought about breaking your study material into smaller, manageable sections?"
+problem,no-group,I'm feeling overwhelmed with my studies.,Remember to take breaks and care for yourself during this time. What can I do to help?
+problem,no-group,I can't stop thinking about my upcoming exams.,Remember to take breaks and care for yourself during this time. What can I do to help?
+problem,no-group,I'm anxious about my exam performance.,Taking a short walk or practicing mindfulness might help you reset. Have you tried any stress-relief techniques?
+problem,no-group,I feel like I'm not ready for my tests.,It's understandable to feel stressed during exam season. What strategies have you considered to help manage that stress?
+problem,no-group,The pressure of exams is getting to me.,It might help to prioritize the topics you feel least confident about. Have you tried that?
+problem,no-group,I have so much to study and not enough time.,Taking a short walk or practicing mindfulness might help you reset. Have you tried any stress-relief techniques?
+problem,no-group,I'm struggling to manage my exam preparations.,I see. Have you taken any approaches to not feel this way?
+problem,no-group,The thought of exams is stressing me out.,It might help to prioritize the topics you feel least confident about. Have you tried that?
+problem,no-group,I feel like I'm falling behind in my studies.,It might help to prioritize the topics you feel least confident about. Have you tried that?
+no-approach,no-group,I guess not. All I can think about are my exams.,Let’s explore some ideas together to help ease your stress. Are you open to that?
+no-approach,no-group,Not really.,Let’s explore some ideas together to help ease your stress. Are you open to that?
+no-approach,no-group,I guess not.,"It's completely normal to feel overwhelmed during exam time. If you're interested, I can share some helpful strategies."
+no-approach,no-group,I haven't thought about it.,I understand that it's hard to think beyond exams right now. How about I suggest some techniques that might help you relax?
+no-approach,no-group,"No, I don't have any strategies.",Let’s explore some ideas together to help ease your stress. Are you open to that?
+no-approach,no-group,I'm just focused on my exams right now.,Let’s explore some ideas together to help ease your stress. Are you open to that?
+no-approach,no-group,I can't think of anything else.,Let’s explore some ideas together to help ease your stress. Are you open to that?
+no-approach,no-group,I'm not sure what to do.,"It's completely normal to feel overwhelmed during exam time. If you're interested, I can share some helpful strategies."
+no-approach,no-group,I'm not sure what to do with my thoughts.,That's no problem. I can see why you'd be stressed out about that. I can suggest some tips to alleviate this issue. Would you like to learn more about that?
+no-approach,no-group,I'm not sure what to do with my mind.,That's no problem. I can see why you'd be stressed out about that. I can suggest some tips to alleviate this issue. Would you like to learn more about that?
+learn-more,about-group,Ok sure. I would like to learn more about it.,Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
+learn-more,about-group,"Yes, I would like to learn more about it.",Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
+learn-more,about-group,I would like to learn more about it.,"So first, I would suggest you give yourself a break. Thinking more and more about the problem definitely does not help in solving it; you'll just end up overwhelming yourself."
+learn-more,about-group,"Tell me more, please.","One of the best strategies is to focus on quality over quantity. Rather than cramming for hours, focus on short bursts of studying with focused breaks. How does that sound to you?"
+learn-more,about-group,I'm interested in learning more.,Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
+learn-more,about-group,I'd love to hear more about that.,"Remember, taking breaks can enhance your focus and productivity. Would you like tips on how to effectively manage your study time?"
+learn-more,about-group,Please share more information.,It's important to take a step back. Sometimes a little distance can help you see things more clearly. Would you like some specific strategies?
+learn-more,about-group,I want to understand better.,Another approach is to create a study schedule. This can help you organize your time and reduce stress. Would you like assistance with that?
+learn-more,about-group,I'd like to learn more about this topic.,Taking care of yourself is key during stressful times. Would you like to hear some self-care practices that can help you recharge?
+learn-more,about-group,I'd like to learn more about the topic of friendships.,"So first, I would suggest you give yourself a break. Thinking more and more about the problem definitely does not help in solving it; you'll just end up overwhelming yourself."
+user-agree,agree-group,"Yeah, you're right. I deserve a break.","Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
+user-agree,agree-group,"Yeah, you're absolutely right about that.","Next, I would suggest you practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+user-agree,agree-group,"I agree, a break would help.",It's great that you recognize the need for a break. Meditation can be an excellent way to recharge your mental energy.
+user-agree,agree-group,"You're correct, I need some time off.","Next, I would suggest you practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+user-agree,agree-group,"That makes sense, I should take a break.",Another thing to consider is deep breathing exercises. They can help reset your nervous system and bring you back to a more relaxed state.
+user-agree,agree-group,I definitely need to relax for a bit.,"Once you feel refreshed, meditation can help you maintain that calm and focus. Would you like more tips on how to meditate?"
+user-agree,agree-group,You have a point; I should step back.,"Taking breaks is essential for mental health. After your break, consider trying meditation to help clear your mind."
+user-agree,agree-group,I see what you mean; a break is necessary.,Another thing to consider is deep breathing exercises. They can help reset your nervous system and bring you back to a more relaxed state.
+user-agree,agree-group,"I agree with you, a break is necessary.",Another thing to consider is deep breathing exercises. They can help reset your nervous system and bring you back to a more relaxed state.
+user-agree,agree-group,"I agree with you, it's necessary.","Once you feel refreshed, meditation can help you maintain that calm and focus. Would you like more tips on how to meditate?"
+meditation,about-group,"Hmmm, that sounds like it could be useful to me.",You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,That sounds useful.,Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
+meditation,about-group,I'm interested in trying meditation.,"Start by finding a quiet place where you won't be disturbed. Sit comfortably, close your eyes, and focus on your breath. Let thoughts come and go without judgment."
+meditation,about-group,Meditation might help me relax.,You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,I could use some relaxation techniques.,You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,How do I start meditating?,You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,I want to learn more about meditation.,Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?
+meditation,about-group,"Sounds good, what should I do?",You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,"I've heard of meditation, but I've never tried it myself.",You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.
+meditation,about-group,interested in meditating.,"Start by finding a quiet place where you won't be disturbed. Sit comfortably, close your eyes, and focus on your breath. Let thoughts come and go without judgment."
+user-meditation,evening-group,I did what you said and I feel a lot better. Thank you very much.,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-meditation,evening-group,I feel better now.,"You're welcome! Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+user-meditation,evening-group,"Thanks for the meditation tips, they really helped!",It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
+user-meditation,evening-group,I appreciate your help; I’m feeling more relaxed.,"You're welcome! Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+user-meditation,evening-group,Meditation made a difference; I’m grateful!,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-meditation,evening-group,I followed your advice and it worked wonders!,It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
+user-meditation,evening-group,"Feeling much calmer now, thanks!",It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
+user-meditation,evening-group,Your suggestions really helped me improve my mood.,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-meditation,evening-group,I did what you said and I feel a lot better.,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-meditation,evening-group,"Thanks for the meditation tips, really helped!",It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.
+user-meditation,evening-group,I appreciate your help,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-meditation,evening-group,Meditation made a difference!,"Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
+user-advice,about-group,I want some advice.,Feel free to ask anything; I'm ready to provide support!
+user-advice,about-group,I need some advice.,I'm here to assist you. Please share what's on your mind.
+user-advice,about-group,I need advice on something.,Feel free to ask anything; I'm ready to provide support!
+user-advice,about-group,Can you give me some advice?,Feel free to ask anything; I'm ready to provide support!
+user-advice,about-group,I'm looking for guidance.,Sure. What can I do to help?
+user-advice,about-group,Could you help me with something?,I'm here to assist you. Please share what's on your mind.
+user-advice,about-group,I could use some advice right now.,Feel free to ask anything; I'm ready to provide support!
+user-advice,about-group,What do you recommend for me?,Feel free to ask anything; I'm ready to provide support!
+user-advice,about-group,I need some guidance on my life,I'm here to assist you. Please share what's on your mind.
+user-advice,about-group,I need some guidance,I'm here to assist you. Please share what's on your mind.
 learn-mental-health,fact-group,I want to learn about mental health.,Oh that's really great. I'd be willing to answer anything that I know about it.
 learn-mental-health,fact-group,I want to learn more about mental health.,Oh that's really great. I'd be willing to answer anything that I know about it.
 learn-mental-health,fact-group,I'm interested in learning about mental health.,Oh that's really great. I'd be willing to answer anything that I know about it.
@@ -499,83 +499,83 @@ learn-mental-health,fact-group,I'm worried about my mental health,Oh that's real
 learn-mental-health,fact-group,I need to understand my mental health better,Oh that's really great. I'd be willing to answer anything that I know about it.
 fact-1,fact-group,What is mental health?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
 fact-1,fact-group,Define mental health,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
-fact-1,fact-group,Can you explain mental health?,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
-fact-1,fact-group,How would you describe mental health?,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
-fact-1,fact-group,What does it mean to have good mental health?,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
-fact-1,fact-group,What does mental health refer to?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
+fact-1,fact-group,Can you explain mental health?,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community."
+fact-1,fact-group,How would you describe mental health?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
+fact-1,fact-group,What does it mean to have good mental health?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
+fact-1,fact-group,What does mental health refer to?,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community."
 fact-1,fact-group,Can you tell me what mental health is?,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community."
-fact-1,fact-group,What’s the definition of mental health?,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+fact-1,fact-group,What’s the definition of mental health?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
 fact-1,fact-group,How do you define good mental health?,"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
-fact-1,fact-group,What is meant by mental health?,Good mental health means more than just the absence of mental illness; it encompasses emotional resilience and overall well-being.
-fact-2,fact-group,Why is mental health important?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+fact-1,fact-group,What is meant by mental health?,"Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community."
+fact-2,fact-group,Why is mental health important?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
 fact-2,fact-group,What is the importance of mental health?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
 fact-2,fact-group,How does mental health affect our lives?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
-fact-2,fact-group,What are the benefits of good mental health?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
-fact-2,fact-group,Why should we prioritize mental health?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
-fact-2,fact-group,What makes mental health so important?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+fact-2,fact-group,What are the benefits of good mental health?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+fact-2,fact-group,Why should we prioritize mental health?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
+fact-2,fact-group,What makes mental health so important?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
 fact-2,fact-group,How does mental health impact our daily lives?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
 fact-2,fact-group,What difference does good mental health make?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
-fact-2,fact-group,Why is mental well-being necessary?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
-fact-2,fact-group,How does focusing on mental health help?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+fact-2,fact-group,Why is mental well-being necessary?,"Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+fact-2,fact-group,How does focusing on mental health help?,Good mental health contributes to overall well-being and helps individuals cope with life's challenges effectively.
 fact-3,fact-group,What is depression?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
-fact-3,fact-group,Define depression,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
-fact-3,fact-group,Can you explain what depression is?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
-fact-3,fact-group,What are the symptoms of depression?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
-fact-3,fact-group,How does one know if they are depressed?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+fact-3,fact-group,Define depression,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
+fact-3,fact-group,Can you explain what depression is?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+fact-3,fact-group,What are the symptoms of depression?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
+fact-3,fact-group,How does one know if they are depressed?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
 fact-3,fact-group,What does it mean to be depressed?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
 fact-3,fact-group,How can you tell if you're suffering from depression?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
 fact-3,fact-group,What signs indicate depression?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
-fact-3,fact-group,What are the main characteristics of depression?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
-fact-3,fact-group,How do you recognize depression in yourself or others?,"Common symptoms include fatigue, changes in appetite, sleep disturbances, and feelings of worthlessness."
-fact-5,fact-group,How do I know if I have depression?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
-fact-5,fact-group,Am I depressed?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
-fact-5,fact-group,Am I suffering from depression?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
+fact-3,fact-group,What are the main characteristics of depression?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+fact-3,fact-group,How do you recognize depression in yourself or others?,"Depression is characterized by a persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+fact-5,fact-group,How do I know if I have depression?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
+fact-5,fact-group,Am I depressed?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
+fact-5,fact-group,Am I suffering from depression?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
 fact-5,fact-group,Am I mentally ill?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
-fact-5,fact-group,What signs indicate I might be depressed?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
-fact-5,fact-group,How can I tell if I'm depressed?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
+fact-5,fact-group,What signs indicate I might be depressed?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
+fact-5,fact-group,How can I tell if I'm depressed?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
 fact-5,fact-group,What are the signs that I might be struggling with depression?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
-fact-5,fact-group,Could I be experiencing depression?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
-fact-5,fact-group,How do I recognize depression in myself?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
+fact-5,fact-group,Could I be experiencing depression?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
+fact-5,fact-group,How do I recognize depression in myself?,"If you notice persistent sadness or lack of interest in activities you used to enjoy, it might be time to seek help."
 fact-5,fact-group,Is it possible for me to have depression?,"For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. They will also have experienced symptoms like feelings of sadness, hopelessness, or irritability nearly every day."
 fact-6,fact-group,What is a therapist?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,What does a therapist do?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,Who qualifies as a therapist?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,What types of therapists are there?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
+fact-6,fact-group,What does a therapist do?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
+fact-6,fact-group,Who qualifies as a therapist?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
+fact-6,fact-group,What types of therapists are there?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
 fact-6,fact-group,How can a therapist help me?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
 fact-6,fact-group,What does a therapist specialize in?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
 fact-6,fact-group,What services do therapists provide?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,How can a therapist assist with mental health?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,When should I see a therapist?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
-fact-6,fact-group,Can a therapist help with my emotional problems?,"A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others."
+fact-6,fact-group,How can a therapist assist with mental health?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
+fact-6,fact-group,When should I see a therapist?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
+fact-6,fact-group,Can a therapist help with my emotional problems?,Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques.
 fact-7,fact-group,What is therapy?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
 fact-7,fact-group,Do I need therapy?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
 fact-7,fact-group,Who is therapy for?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
-fact-7,fact-group,How does therapy work?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
+fact-7,fact-group,How does therapy work?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
 fact-7,fact-group,What can I expect from therapy?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
 fact-7,fact-group,When should I consider therapy?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
-fact-7,fact-group,What happens during therapy sessions?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
-fact-7,fact-group,What types of therapy are there?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+fact-7,fact-group,What happens during therapy sessions?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+fact-7,fact-group,What types of therapy are there?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
 fact-7,fact-group,What is the purpose of therapy?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
-fact-7,fact-group,Is therapy helpful for dealing with stress?,Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
-fact-8,fact-group,What does it mean to have a mental illness?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
-fact-8,fact-group,Can you explain what constitutes a mental illness?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
+fact-7,fact-group,Is therapy helpful for dealing with stress?,"In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
+fact-8,fact-group,What does it mean to have a mental illness?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
+fact-8,fact-group,Can you explain what constitutes a mental illness?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
 fact-8,fact-group,How do we define mental illness?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
 fact-8,fact-group,What are common types of mental illnesses?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
 fact-8,fact-group,What are the symptoms of mental illness?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
-fact-8,fact-group,How is mental illness diagnosed?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
+fact-8,fact-group,How is mental illness diagnosed?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
 fact-8,fact-group,What are the causes of mental illness?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
 fact-8,fact-group,How does mental illness affect daily life?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
 fact-8,fact-group,Is mental illness treatable?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
-fact-8,fact-group,What are the common misconceptions about mental illness?,"Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life."
-fact-9,fact-group,Who does mental illness affect?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
-fact-9,fact-group,What populations are most affected by mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
-fact-9,fact-group,Are certain groups more susceptible to mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
+fact-8,fact-group,What are the common misconceptions about mental illness?,Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia.
+fact-9,fact-group,Who does mental illness affect?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
+fact-9,fact-group,What populations are most affected by mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
+fact-9,fact-group,Are certain groups more susceptible to mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
 fact-9,fact-group,Can anyone develop a mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
-fact-9,fact-group,What age groups are vulnerable to mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
-fact-9,fact-group,How common is mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
-fact-9,fact-group,Which age group is most affected by mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
-fact-9,fact-group,Are there specific risk factors for mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
-fact-9,fact-group,Can children be affected by mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
+fact-9,fact-group,What age groups are vulnerable to mental illness?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
+fact-9,fact-group,How common is mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
+fact-9,fact-group,Which age group is most affected by mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
+fact-9,fact-group,Are there specific risk factors for mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
+fact-9,fact-group,Can children be affected by mental illness?,"Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
 fact-9,fact-group,How does mental illness affect different demographics?,It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.
 fact-10,fact-group,What causes mental illness?,"Mental illness affects 1 in 5 adults; it can affect anyone regardless of demographics. Certain conditions may be more prevalent in specific groups. All ages are susceptible, but youth and elderly individuals are particularly vulnerable. Mental illnesses usually develop by age 24, making early identification challenging due to normal developmental changes. Parents should monitor changes in mood or behavior in children as these may indicate serious emotional disturbances (SEDs)."
 fact-10,fact-group,What factors contribute to mental illness?,"Mental illness affects 1 in 5 adults; it can affect anyone regardless of demographics. Certain conditions may be more prevalent in specific groups. All ages are susceptible, but youth and elderly individuals are particularly vulnerable. Mental illnesses usually develop by age 24, making early identification challenging due to normal developmental changes. Parents should monitor changes in mood or behavior in children as these may indicate serious emotional disturbances (SEDs)."
@@ -777,16 +777,16 @@ fact-29,fact-group,What can I do to manage my feelings of unwellness?,"If your b
 fact-29,fact-group,What are some effective ways to manage my feelings of unwellness?,"If your beliefs, thoughts, feelings, or behaviors significantly impact your ability to function in a normal way, it is important to seek help. Recognizing changes in your daily functioning or emotional state can be the first step toward getting the support you need."
 fact-29,fact-group,What are some steps I can take to address my concerns about my mental health?,"If your beliefs, thoughts, feelings, or behaviors significantly impact your ability to function in a normal way, it is important to seek help. Recognizing changes in your daily functioning or emotional state can be the first step toward getting the support you need."
 fact-29,fact-group,What are some effective ways to manage my feelings of unwellness?,"If your beliefs, thoughts, feelings, or behaviors significantly impact your ability to function in a normal way, it is important to seek help. Recognizing changes in your daily functioning or emotional state can be the first step toward getting the support you need."
-fact-30,sad-group,How can I maintain social connections? What if I feel lonely?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,What should I do if I'm feeling isolated?,"Many people experience loneliness, but there are ways to connect meaningfully. Consider your preferred methods of communication, like video chats or texting, and create a plan with your social networks. Regular check-ins, whether through video calls or phone calls, can help maintain connections. Be mindful of those who may not be online and reach out via phone. Quality matters more than quantity; focus on strategies that foster genuine connection rather than mindless social media interactions."
-fact-30,sad-group,How can I connect with others when I'm feeling lonely?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,What are some ways to build social connections?,"Many people experience loneliness, but there are ways to connect meaningfully. Consider your preferred methods of communication, like video chats or texting, and create a plan with your social networks. Regular check-ins, whether through video calls or phone calls, can help maintain connections. Be mindful of those who may not be online and reach out via phone. Quality matters more than quantity; focus on strategies that foster genuine connection rather than mindless social media interactions."
-fact-30,sad-group,How do I deal with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,What are some effective ways to maintain social connections?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,How can I make connections with others when I'm feeling lonely?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,What are some ways to deal with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,How can I maintain social connections while dealing with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
-fact-30,sad-group,How can I maintain connections whilst dealing with feelings of isolation?,"Many people experience loneliness, but there are ways to connect meaningfully. Consider your preferred methods of communication, like video chats or texting, and create a plan with your social networks. Regular check-ins, whether through video calls or phone calls, can help maintain connections. Be mindful of those who may not be online and reach out via phone. Quality matters more than quantity; focus on strategies that foster genuine connection rather than mindless social media interactions."
+fact-30,fact-group,How can I maintain social connections? What if I feel lonely?,"Many people experience loneliness, but there are ways to connect meaningfully. Consider your preferred methods of communication, like video chats or texting, and create a plan with your social networks. Regular check-ins, whether through video calls or phone calls, can help maintain connections. Be mindful of those who may not be online and reach out via phone. Quality matters more than quantity; focus on strategies that foster genuine connection rather than mindless social media interactions."
+fact-30,fact-group,What should I do if I'm feeling isolated?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,How can I connect with others when I'm feeling lonely?,"Many people experience loneliness, but there are ways to connect meaningfully. Consider your preferred methods of communication, like video chats or texting, and create a plan with your social networks. Regular check-ins, whether through video calls or phone calls, can help maintain connections. Be mindful of those who may not be online and reach out via phone. Quality matters more than quantity; focus on strategies that foster genuine connection rather than mindless social media interactions."
+fact-30,fact-group,What are some ways to build social connections?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,How do I deal with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,What are some effective ways to maintain social connections?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,How can I make connections with others when I'm feeling lonely?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,What are some ways to deal with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,How can I maintain social connections while dealing with feelings of loneliness?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
+fact-30,fact-group,How can I maintain connections whilst dealing with feelings of isolation?,"If you feel lonely due to life changes or isolation, reach out to existing connections and suggest regular times to talk. Don't hesitate to initiate contact, as others may also be hesitant. Look for local community support and mutual aid groups online; these can provide opportunities for new connections and support during challenging times."
 fact-31,fact-group,What's the difference between anxiety and stress?,"Stress and anxiety are often used interchangeably, but they have distinct differences. Stress is typically a response to external pressures that we find challenging to cope with. It usually has a clear cause, such as a deadline or a significant life change, and symptoms often subside once the stressful situation is resolved. In contrast, anxiety can be more complex; it involves persistent worries or fears about potential threats, which may not always be identifiable. Anxiety can also include apprehension about experiencing anxiety itself, leading to a cycle of worry. While both stress and anxiety are normal human experiences, they can become problematic if they persist over time or significantly impact our well-being and daily functioning. Understanding these differences can help in managing each condition effectively."
 fact-31,fact-group,How do anxiety and stress differ?,"Stress and anxiety are often used interchangeably, but they have distinct differences. Stress is typically a response to external pressures that we find challenging to cope with. It usually has a clear cause, such as a deadline or a significant life change, and symptoms often subside once the stressful situation is resolved. In contrast, anxiety can be more complex; it involves persistent worries or fears about potential threats, which may not always be identifiable. Anxiety can also include apprehension about experiencing anxiety itself, leading to a cycle of worry. While both stress and anxiety are normal human experiences, they can become problematic if they persist over time or significantly impact our well-being and daily functioning. Understanding these differences can help in managing each condition effectively."
 fact-31,fact-group,Are stress and anxiety the same thing?,"Stress and anxiety are often used interchangeably, but they have distinct differences. Stress is typically a response to external pressures that we find challenging to cope with. It usually has a clear cause, such as a deadline or a significant life change, and symptoms often subside once the stressful situation is resolved. In contrast, anxiety can be more complex; it involves persistent worries or fears about potential threats, which may not always be identifiable. Anxiety can also include apprehension about experiencing anxiety itself, leading to a cycle of worry. While both stress and anxiety are normal human experiences, they can become problematic if they persist over time or significantly impact our well-being and daily functioning. Understanding these differences can help in managing each condition effectively."
