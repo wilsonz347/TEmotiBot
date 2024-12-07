@@ -19,7 +19,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 embeddings = model.encode(patterns)
 
 # Perform hierarchical clustering
-n_clusters = 13
+n_clusters = 30
 clustering = AgglomerativeClustering(n_clusters=n_clusters)
 clustering.labels_ = clustering.fit_predict(embeddings)
 
