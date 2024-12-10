@@ -3,10 +3,10 @@ import pickle
 import pandas as pd
 import spacy
 
-with open('best_model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('label_encoder.pkl', 'rb') as f:
+with open('encoder.pkl', 'rb') as f:
     label_encoder = pickle.load(f)
 
 nlp = spacy.load("en_core_web_sm")

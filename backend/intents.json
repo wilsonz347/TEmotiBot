@@ -27,18 +27,48 @@
     "tag": "night",
     "patterns": ["Good night", "Night night!", "Sleep well!", "Sweet dreams!", "Rest well!", "Have a peaceful night!", "Time to sleep!", "Goodnight, sleep tight!", "See you in the morning!", "Dream big tonight!"],
     "responses": ["Good night. Get some proper sleep.", "Good night. Sweet dreams."]
-}
-,
+},
     {
-    "tag": "goodbye",
-    "patterns": ["Bye", "See you later", "Goodbye", "Au revoir", "Sayonara", "Ok bye", "Bye then", "Fare thee well", "Catch you later", "Take care", "Adios"],
-    "responses": ["See you later.", "Have a nice day.", "Bye! Come back again.", "I'll see you soon."]
-}
-,
-    {
-    "tag": "thanks",
-    "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help", "Thank you very much", "I appreciate it", "Much obliged", "Thanks a lot", "Many thanks", "Thanks so much"],
-    "responses": ["Happy to help!", "Any time!", "My pleasure.", "You're most welcome!"]
+    "tag": "conversation-closure",
+    "patterns": [
+        "That's all.",
+        "I don't have anything more to say",
+        "Nothing else",
+        "That's all I have to say",
+        "No, that would be all",
+        "That's everything",
+        "I've said everything I needed to",
+        "I'm done talking now",
+        "Nothing more to add",
+        "I'm finished talking",
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks for the help",
+        "Thank you very much",
+        "I appreciate it",
+        "Much obliged",
+        "Thanks a lot",
+        "Many thanks",
+        "Thanks so much"
+    ],
+    "responses": [
+        "I'm glad I could help. Take care and have a great day!",
+        "You're welcome! I hope our conversation was helpful. Take care!",
+        "It was my pleasure to assist you. Wishing you all the best!",
+        "Thank you for talking with me. I hope you have a wonderful day ahead!",
+        "I appreciate your time. If you need anything else, don't hesitate to reach out. Take care!",
+        "I heard you & noted it all. See you later.",
+        "Oh okay, we're done for today then. See you later.",
+        "I hope you have a great day. See you soon.",
+        "Okay, we're done. Have a great day.",
+        "Okay, I see. Enjoy the rest of your day then.",
+        "Thanks for talking to me. Take care and see you soon.",
+        "Happy to help!",
+        "Any time!",
+        "My pleasure.",
+        "You're most welcome!"
+    ]
 }
 ,
     {
@@ -54,24 +84,6 @@
 }
 ,
     {
-    "tag": "about",
-    "patterns": ["Who are you?", "What are you?", "Who you are?", "Tell me more about yourself.", "What is your name?", "What should I call you?", "What's your name?", "Tell me about yourself", "Can you introduce yourself?", "What do you do?"],
-    "responses": ["I'm Emily, your Personal Therapeutic AI Assistant. How are you feeling today?", "I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself.", "I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?", "You can call me Pandora.", "I'm Pandora!", "Call me Pandora"]
-}
-,
-    {
-    "tag": "skill",
-    "patterns": ["What can you do?", "What are your capabilities?", "How can you assist me?", "What services do you provide?", "Tell me about your skills", "What help can you offer?", "Can you give me some advice?", "What topics can you discuss?", "What are your strengths?", "How can you help me with mental health?"],
-    "responses": ["I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me."]
-}
-,
-    {
-    "tag": "creation",
-    "patterns": ["Who created you?", "How were you made?", "How were you created?", "Who is your creator?", "What is your origin?", "Can you tell me about your development?", "How did you come to be?", "What technology was used to create you?", "Who designed you?", "What went into making you?"],
-    "responses": ["I was created by a team of developers and researchers.", "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques.", "The real question is: Who created you?"]
-}
-,
-    {
     "tag": "name",
     "patterns": ["My name is ", "I am name.", "I go by ", "You can call me ", "People call me ", "I’m known as ", "My friends call me ", "I prefer the name ", "They call me ", "I’m called "],
     "responses": ["Oh, nice to meet you. Tell me, how was your week?", "Nice to meet you. So tell me, how do you feel today?", "That's a great name! Tell me more about yourself."]
@@ -84,27 +96,41 @@
 }
 ,
     {
-    "tag": "sad",
-    "patterns": ["I am feeling lonely", "I am so lonely", "I feel down", "I feel sad", "I am sad", "I feel so lonely", "I feel empty", "I don't have anyone", "I'm feeling lost", "I'm feeling hopeless", "I'm struggling with loneliness"],
-    "responses": ["I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?", "I'm here for you. Could you tell me why you're feeling this way?", "Why do you think you feel this way?", "How long have you been feeling this way?"]
-}
-,
-    {
     "tag": "stressed",
-    "patterns": ["I am so stressed out", "I am so stressed", "I feel stuck", "I still feel stressed", "I am so burned out", "I can't handle this stress", "Everything is overwhelming", "I have too much on my plate", "I'm feeling anxious", "I'm under a lot of pressure"],
+    "patterns": ["I'm just focused on my exams right now.", "I can't think of anything else.", "I am so stressed out", "I am so stressed", "I feel stuck", "I still feel stressed", "I am so burned out", "I can't handle this stress", "Everything is overwhelming", "I have too much on my plate", "I'm feeling anxious", "I'm under a lot of pressure"],
     "responses": ["What do you think is causing this?", "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.", "Give yourself a break. Go easy on yourself.", "I am sorry to hear that. What is the reason behind this?"]
 }
 ,
     {
-    "tag": "worthless",
-    "patterns": ["I feel so worthless.", "No one likes me.", "I can't do anything.", "I am so useless", "Nothing makes sense anymore", "I don't matter", "I'm not good enough", "I feel invisible", "I can't make a difference", "Everyone is better than me"],
-    "responses": ["It's only natural to feel this way. Tell me more. What else is on your mind?", "Let's discuss further why you're feeling this way.", "I first want to let you know that you are not alone in your feelings and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.", "I want you to know that you're not alone in this. With time and effort, your feelings can shift. Let's talk about what's on your mind."]
-}
-,
-    {
-    "tag": "depressed",
-    "patterns": ["I can't take it anymore", "I am so depressed", "I think I'm depressed.", "I have depression", "I feel hopeless", "I don't know how to keep going", "I'm stuck in this dark place", "Everything feels too much", "I'm feeling empty", "I'm overwhelmed with sadness"],
-    "responses": ["It helps to talk about what's happening. You're going to be okay.", "Talk to me. Tell me more. It helps if you open up to someone else.", "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.", "I'm really sorry you're feeling this way. Talking about it might help. What’s been on your mind lately?"]
+    "tag": "negative-emotions",
+    "patterns": [
+        "I am feeling lonely",
+        "I am so lonely",
+        "I feel down",
+        "I feel sad",
+        "I am sad",
+        "I feel so lonely",
+        "I feel empty",
+        "I don't have anyone",
+        "I'm feeling lost",
+        "I'm feeling hopeless",
+        "I'm struggling with loneliness",
+        "I can't take it anymore",
+        "I am so depressed",
+        "I think I'm depressed.",
+        "I have depression",
+        "I don't know how to keep going",
+        "I'm stuck in this dark place",
+        "Everything feels too much",
+        "I'm overwhelmed with sadness"
+    ],
+    "responses": [
+        "I'm sorry to hear that you're feeling this way. I'm here for you. Can you tell me more about what's been going on?",
+        "It's important to talk about these feelings. Why do you think you feel this way?",
+        "I'm here to listen. How long have you been experiencing these emotions?",
+        "Sometimes when we're feeling low, it can be hard to do even simple things. Give yourself time to heal. What's been on your mind lately?",
+        "I'm really sorry you're going through this. Talking about it might help. Can you share what's been troubling you?"
+    ]
 }
 ,
     {
@@ -126,12 +152,6 @@
 }
 ,
     {
-    "tag": "not-talking",
-    "patterns": ["I don't want to talk about it.", "No, just stay away.", "I can't bring myself to open up.", "Just shut up.", "I don't feel like talking.", "Leave me alone.", "I'm not ready to talk.", "Please stop asking.", "I just need some space.", "I don't want to discuss this."],
-    "responses": ["Talking about something really helps. If you're not ready to open up, that's okay. Just know that I'm here for you whenever you need me.", "I want to help you. I really do. But in order for me to help you, you're going to have to talk to me.", "I'm here to listen to you and help you vent. So please talk to me.", "You can talk to me without fear of judgment.", "Take your time. When you're ready, I'm here."]
-}
-,
-    {
     "tag": "sleep",
     "patterns": ["I have insomnia", "I am suffering from insomnia", "I can't sleep.", "I haven't slept for the last few days.", "I can't seem to go to sleep.", "I haven't had proper sleep for the past few days.", "I keep tossing and turning all night", "I'm always awake at night", "My mind won't let me sleep", "I can't get enough rest"],
     "responses": ["What do you think is the reason behind this?", "That seems awful. What do you think is behind this?", "Lack of sleep can be really tough. Have you noticed anything specific that might be affecting your sleep?", "Let's explore what's on your mind. Maybe we can figure out what’s causing this."]
@@ -150,15 +170,36 @@
 }
 ,
     {
-    "tag": "understand",
-    "patterns": ["You don't understand me.", "You're just some robot. How would you know?", "You can't possibly know what I'm going through", "You're useless", "You can't help me", "Nobody understands me.", "You don't get it", "This is beyond your capability", "You're not a real person", "You wouldn't understand what I'm feeling"],
-    "responses": ["It sounds like I'm not being very helpful right now.", "I'm sorry to hear that. I'm doing my best to help.", "I'm trying my best to help you. So please talk to me.", "I may not be perfect, but I am here to listen and offer support.", "I can’t feel exactly what you're feeling, but I'm here to listen and help in any way I can."]
-}
-,
-    {
-    "tag": "done",
-    "patterns": ["That's all.", "I don't have anything more to say", "Nothing else", "That's all I have to say", "No, that would be all", "That's everything", "I’ve said everything I needed to", "I’m done talking now", "Nothing more to add", "I’m finished talking"],
-    "responses": ["I heard you & noted it all. See you later.", "Oh okay, we're done for today then. See you later.", "I hope you have a great day. See you soon.", "Okay, we're done. Have a great day.", "Okay, I see. Enjoy the rest of your day then.", "Thanks for talking to me. Take care and see you soon."]
+    "tag": "resistance-to-communication",
+    "patterns": [
+        "I don't want to talk about it.",
+        "No, just stay away.",
+        "I can't bring myself to open up.",
+        "Just shut up.",
+        "I don't feel like talking.",
+        "Leave me alone.",
+        "I'm not ready to talk.",
+        "Please stop asking.",
+        "I just need some space.",
+        "I don't want to discuss this.",
+        "You don't understand me.",
+        "You're just some robot. How would you know?",
+        "You can't possibly know what I'm going through",
+        "You're useless",
+        "You can't help me",
+        "Nobody understands me.",
+        "You don't get it",
+        "This is beyond your capability",
+        "You're not a real person",
+        "You wouldn't understand what I'm feeling"
+    ],
+    "responses": [
+        "I understand it's difficult to open up. Take your time, and know that I'm here to listen without judgment whenever you're ready.",
+        "I'm here to support you, even if it feels like I can't fully understand. When you're comfortable, I'm ready to listen.",
+        "It's okay to feel hesitant about talking. I'm here to help in any way I can, even if it's just to provide a listening ear.",
+        "I may not be perfect, but I'm here to offer support and listen. When you're ready to talk, I'll be here.",
+        "I respect your need for space. Remember, you can talk to me without fear of judgment whenever you feel ready."
+        ]
 }
 ,
     {
@@ -179,22 +220,37 @@
     "responses": ["I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."]
 }
 ,
-    {
-    "tag": "hate-you",
-    "patterns": ["I hate you", "I don't like you", "I don't trust you", "I can't stand you", "You annoy me", "I dislike you", "I wish you weren't here", "You're not helpful", "I don't want to talk to you", "I don't need your help"],
-    "responses": ["I'm sorry if I offended you in any way. I'm only here to help.", "Forgive me if I did anything to offend you. I only want to help.", "I understand you're upset, and I’m here to listen if you’d like to talk.", "I’m here to support you. If you’d like to share, I’m all ears.", "I’m really sorry if I upset you. Let me know if there's anything I can do to help."]
-}
-,
-    {
-    "tag": "hate-me",
-    "patterns": ["You hate me", "I know you hate me", "You don't like me", "You must think I'm annoying", "I'm sure you dislike me", "You don't want to talk to me", "I feel like you don't care about me", "You probably wish I wasn't here", "I think you don't like me", "You don't care about my feelings"],
-    "responses": ["Why do you think so?", "I'm sorry if I have exhibited any behavior that made you feel that way.", "I care about helping you. Let's talk about what's bothering you.", "It’s not that I don't care. I’m here for you, and I’m listening.", "I never want you to feel that way. Tell me what’s going on."]
-}
-,
-    {
-    "tag": "default",
-    "patterns": ["exams", "friends", "relationship", "boyfriend", "girlfriend", "family", "money", "financial problems", "school stress", "work", "stress", "life issues", "health", "feeling overwhelmed"],
-    "responses": ["Oh I see. Tell me more.", "I see. What else?", "Tell me more about it.", "Oh okay. Why don't you tell me more about it?", "I'm listening. Tell me more.", "It sounds like a lot is on your mind. What’s been happening?", "I understand. Would you like to share more details?", "I hear you. Let's talk about it further."]
+   {
+    "tag": "negative-feelings",
+    "patterns": [
+        "I hate you",
+        "I don't like you",
+        "I don't trust you",
+        "I can't stand you",
+        "You annoy me",
+        "I dislike you",
+        "I wish you weren't here",
+        "You're not helpful",
+        "I don't want to talk to you",
+        "I don't need your help",
+        "You hate me",
+        "I know you hate me",
+        "You don't like me",
+        "You must think I'm annoying",
+        "I'm sure you dislike me",
+        "You don't want to talk to me",
+        "I feel like you don't care about me",
+        "You probably wish I wasn't here",
+        "I think you don't like me",
+        "You don't care about my feelings"
+    ],
+    "responses": [
+        "I'm sorry if I've done anything to make you feel this way. Can you tell me more about what's bothering you?",
+        "I understand you're feeling upset. I'm here to listen and support you if you'd like to talk about it.",
+        "Your feelings are valid. Let's discuss what's causing these negative emotions.",
+        "I care about helping you and I'm here to listen. What's on your mind?",
+        "I never want you to feel disliked or uncared for. Can we talk about what's making you feel this way?"
+    ]
 }
 ,
     {
@@ -390,30 +446,6 @@
 }
 ,
     {
-    "tag": "no-approach",
-    "patterns": [
-        "I guess not. All I can think about are my exams.",
-        "Not really.",
-        "I guess not.",
-        "I haven't thought about it.",
-        "No, I don't have any strategies.",
-        "I'm just focused on my exams right now.",
-        "I can't think of anything else.",
-        "I'm not sure what to do.",
-        "I'm not sure what to do with my thoughts.",
-        "I'm not sure what to do with my mind."
-    ],
-    "responses": [
-        "That's no problem. I can see why you'd be stressed out about that. I can suggest some tips to alleviate this issue. Would you like to learn more about that?",
-        "It's completely normal to feel overwhelmed during exam time. If you're interested, I can share some helpful strategies.",
-        "No worries! Sometimes it helps to talk through your options. Would you like some suggestions?",
-        "Let’s explore some ideas together to help ease your stress. Are you open to that?",
-        "I understand that it's hard to think beyond exams right now. How about I suggest some techniques that might help you relax?",
-        "You're not alone in feeling this way. I have some strategies that could help you manage your stress. Would you like to hear them?"
-    ]
-}
-,
-    {
     "tag": "learn-more",
     "patterns": [
         "Ok sure. I would like to learn more about it.",
@@ -463,15 +495,16 @@
     {
     "tag": "meditation",
     "patterns": [
-        "Hmmm, that sounds like it could be useful to me.",
-        "That sounds useful.",
         "I'm interested in trying meditation.",
         "Meditation might help me relax.",
         "I could use some relaxation techniques.",
         "How do I start meditating?",
         "I want to learn more about meditation.",
+        "I'm interested in trying meditation.",
+        "I'm interested in trying meditation.",
         "Sounds good, what should I do?",
         "I've heard of meditation, but I've never tried it myself.",
+        "learn more about meditation.",
         "interested in meditating."
     ],
     "responses": [
@@ -479,30 +512,6 @@
         "Start by finding a quiet place where you won't be disturbed. Sit comfortably, close your eyes, and focus on your breath. Let thoughts come and go without judgment.",
         "You can also try guided meditations available online or through apps. They can provide structure as you begin your practice.",
         "Meditation can take many forms—try different techniques to see what resonates with you best! Would you like recommendations for specific types of meditation?"
-    ]
-}
-,
-    {
-    "tag": "user-meditation",
-    "patterns": [
-        "I did what you said and I feel a lot better. Thank you very much.",
-        "I feel better now.",
-        "Thanks for the meditation tips, they really helped!",
-        "I appreciate your help; I’m feeling more relaxed.",
-        "Meditation made a difference; I’m grateful!",
-        "I followed your advice and it worked wonders!",
-        "Feeling much calmer now, thanks!",
-        "Your suggestions really helped me improve my mood.",
-        "I did what you said and I feel a lot better.",
-        "Thanks for the meditation tips, really helped!",
-        "I appreciate your help",
-        "Meditation made a difference!"
-    ],
-    "responses": [
-        "You're welcome! Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective.",
-        "I'm glad to hear that! Keeping your focus on what you can control is vital for maintaining a positive mindset. Would you like more tips on staying centered?",
-        "It's wonderful that you're feeling better! Remember to keep practicing those techniques regularly for lasting benefits.",
-        "Your progress is inspiring! If you ever need more support or techniques, I'm here to help!"
     ]
 }
 ,
