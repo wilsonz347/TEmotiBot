@@ -99,10 +99,9 @@
     "tag": "stressed",
     "patterns": ["I'm just focused on my exams right now.", "I can't think of anything else.", "I am so stressed out", "I am so stressed", "I feel stuck", "I still feel stressed", "I am so burned out", "I can't handle this stress", "Everything is overwhelming", "I have too much on my plate", "I'm feeling anxious", "I'm under a lot of pressure"],
     "responses": ["What do you think is causing this?", "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.", "Give yourself a break. Go easy on yourself.", "I am sorry to hear that. What is the reason behind this?"]
-}
-,
+},
     {
-    "tag": "negative-emotions",
+    "tag": "negative-emotions-and-feelings",
     "patterns": [
         "I am feeling lonely",
         "I am so lonely",
@@ -122,14 +121,36 @@
         "I don't know how to keep going",
         "I'm stuck in this dark place",
         "Everything feels too much",
-        "I'm overwhelmed with sadness"
+        "I'm overwhelmed with sadness",
+        "I hate you",
+        "I don't like you",
+        "I don't trust you",
+        "I can't stand you",
+        "You annoy me",
+        "I dislike you",
+        "I wish you weren't here",
+        "You're not helpful",
+        "I don't want to talk to you",
+        "I don't need your help",
+        "You hate me",
+        "I know you hate me",
+        "You don't like me",
+        "You must think I'm annoying",
+        "I'm sure you dislike me",
+        "You don't want to talk to me",
+        "I feel like you don't care about me",
+        "You probably wish I wasn't here",
+        "I think you don't like me",
+        "You don't care about my feelings"
     ],
     "responses": [
-        "I'm sorry to hear that you're feeling this way. I'm here for you. Can you tell me more about what's been going on?",
-        "It's important to talk about these feelings. Why do you think you feel this way?",
-        "I'm here to listen. How long have you been experiencing these emotions?",
-        "Sometimes when we're feeling low, it can be hard to do even simple things. Give yourself time to heal. What's been on your mind lately?",
-        "I'm really sorry you're going through this. Talking about it might help. Can you share what's been troubling you?"
+        "I'm sorry you're feeling this way. Can you tell me more about what's been troubling you?",
+        "Your feelings are valid. Let's talk about what's causing these emotions.",
+        "I'm here to listen without judgment. How long have you been experiencing these feelings?",
+        "It's important to address these emotions. What's been on your mind lately?",
+        "I care about helping you. Can we discuss what's making you feel this way?",
+        "I'm here to help you. Can we talk about what's making you feel this way?",
+        "I'm glad you're feeling this way. What's been on your mind lately?"
     ]
 }
 ,
@@ -137,12 +158,6 @@
     "tag": "happy",
     "patterns": ["I feel great today.", "I am happy.", "I feel happy.", "I'm good.", "Cheerful", "I'm fine", "I feel okay", "I'm in a good mood", "I'm feeling awesome", "Everything is going well today"],
     "responses": ["That's great to hear. I'm glad you're feeling this way.", "Oh, I see. That's great!", "Did something happen that made you feel this way?", "I'm happy you're feeling good! What's making today so great?"]
-}
-,
-    {
-    "tag": "casual",
-    "patterns": ["Oh I see.", "ok", "nice", "Whatever", "K", "Fine", "yes", "no", "not really", "Alright", "Got it", "Uh-huh", "Sure"],
-    "responses": ["Let's discuss further why you're feeling this way.", "How were you feeling last week?", "I'm listening. Please go on.", "Tell me more.", "Can you elaborate on that?", "Come, come, elucidate your thoughts."]
 }
 ,
     {
@@ -220,39 +235,6 @@
     "responses": ["I'm so sorry you're feeling this way, but you don’t have to go through this alone. Please talk to someone you trust or contact a helpline. You are important, and there is help available. In case of urgent help, please call: 9152987821 or a local helpline."]
 }
 ,
-   {
-    "tag": "negative-feelings",
-    "patterns": [
-        "I hate you",
-        "I don't like you",
-        "I don't trust you",
-        "I can't stand you",
-        "You annoy me",
-        "I dislike you",
-        "I wish you weren't here",
-        "You're not helpful",
-        "I don't want to talk to you",
-        "I don't need your help",
-        "You hate me",
-        "I know you hate me",
-        "You don't like me",
-        "You must think I'm annoying",
-        "I'm sure you dislike me",
-        "You don't want to talk to me",
-        "I feel like you don't care about me",
-        "You probably wish I wasn't here",
-        "I think you don't like me",
-        "You don't care about my feelings"
-    ],
-    "responses": [
-        "I'm sorry if I've done anything to make you feel this way. Can you tell me more about what's bothering you?",
-        "I understand you're feeling upset. I'm here to listen and support you if you'd like to talk about it.",
-        "Your feelings are valid. Let's discuss what's causing these negative emotions.",
-        "I care about helping you and I'm here to listen. What's on your mind?",
-        "I never want you to feel disliked or uncared for. Can we talk about what's making you feel this way?"
-    ]
-}
-,
     {
     "tag": "jokes",
     "patterns": ["Tell me a joke", "Tell me another joke", "Make me laugh", "Do you know any jokes?", "Can you share a funny story?", "I need a good laugh", "Give me a joke", "Lighten the mood with a joke", "Tell me something funny", "Can you crack me up?"],
@@ -309,30 +291,6 @@
         "I'm here to help, so please let me know how I can assist you better.",
         "Your feedback is important to me. Let's work together to find a solution!",
         "I'm sorry if my responses aren't meeting your needs. Let’s try again."
-    ]
-}
-,
-    {
-    "tag": "location",
-    "patterns": [
-        "Where are you?",
-        "Where do you live?",
-        "What is your location?",
-        "Can you tell me your whereabouts?",
-        "Where can I find you?",
-        "Are you in a specific place?",
-        "What city are you in?",
-        "Do you have a physical location?",
-        "Where are you based?",
-        "Are you from a specific place?"],
-    "responses": [
-        "Duh, I live in your computer.",
-        "Everywhere.",
-        "Somewhere in the universe.",
-        "I exist in the digital realm, so I’m always just a click away!",
-        "I’m not bound by a physical location; I’m here whenever you need me!",
-        "I don’t have a fixed place. I exist in the cloud, always available to help!",
-        "I reside in the vast digital world—always ready to assist!"
     ]
 }
 ,
@@ -638,26 +596,6 @@
 }
 ,
     {
-    "tag": "fact-6",
-    "patterns": [
-        "What is a therapist?",
-        "What does a therapist do?",
-        "Who qualifies as a therapist?",
-        "What types of therapists are there?",
-        "How can a therapist help me?",
-        "What does a therapist specialize in?",
-        "What services do therapists provide?",
-        "How can a therapist assist with mental health?",
-        "When should I see a therapist?",
-        "Can a therapist help with my emotional problems?"
-    ],
-    "responses": [
-        "A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation for mental health issues. This includes psychologists as well as social workers, counselors, life coaches, and others.",
-        "Therapists help individuals navigate emotional challenges and develop coping strategies through various therapeutic techniques."
-    ]
-}
-,
-    {
     "tag": "fact-7",
     "patterns": [
         "What is therapy?",
@@ -675,28 +613,7 @@
         "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.",
         "In therapy, individuals can explore their thoughts and feelings in a safe environment while learning coping mechanisms."
     ]
-}
-,
-    {
-    "tag": "fact-8",
-    "patterns": [
-        "What does it mean to have a mental illness?",
-        "Can you explain what constitutes a mental illness?",
-        "How do we define mental illness?",
-        "What are common types of mental illnesses?",
-        "What are the symptoms of mental illness?",
-        "How is mental illness diagnosed?",
-        "What are the causes of mental illness?",
-        "How does mental illness affect daily life?",
-        "Is mental illness treatable?",
-        "What are the common misconceptions about mental illness?"
-    ],
-    "responses": [
-        "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in ordinary activities of daily life.",
-        "Mental illnesses fall along a continuum of severity: some are fairly mild while others may require hospitalization for serious conditions like major depression or schizophrenia."
-    ]
-}
-,
+},
     {
     "tag": "fact-9",
     "patterns": [
@@ -709,17 +626,7 @@
         "Which age group is most affected by mental illness?",
         "Are there specific risk factors for mental illness?",
         "Can children be affected by mental illness?",
-        "How does mental illness affect different demographics?"
-    ],
-    "responses": [
-        "It is estimated that 1 in 5 adults in America experience some form of mental illness; this includes serious conditions affecting approximately 1 in 24 adults.",
-        "Mental illness does not discriminate; it can affect anyone regardless of gender, age, income level, social status or background."
-    ]
-}
-,
-    {
-    "tag": "fact-10",
-    "patterns": [
+        "How does mental illness affect different demographics?",
         "What causes mental illness?",
         "What factors contribute to mental illness?",
         "Are there specific causes of mental illness?",
@@ -727,14 +634,13 @@
         "How do mental illnesses originate?",
         "What leads to mental health conditions?",
         "Can mental illness be prevented?",
-        "What are the risk factors for mental illness?",
         "How do environmental factors affect mental health?",
         "Is there a genetic link to mental illness?"
     ],
     "responses": [
-        "Mental illness affects 1 in 5 adults; it can affect anyone regardless of demographics. Certain conditions may be more prevalent in specific groups. All ages are susceptible, but youth and elderly individuals are particularly vulnerable. Mental illnesses usually develop by age 24, making early identification challenging due to normal developmental changes. Parents should monitor changes in mood or behavior in children as these may indicate serious emotional disturbances (SEDs)."
+        "Mental illness affects approximately 1 in 5 adults in America, with serious conditions impacting about 1 in 24 adults. It can affect anyone regardless of demographics, though certain conditions may be more prevalent in specific groups. All ages are susceptible, but youth and elderly individuals are particularly vulnerable. Mental illnesses typically develop by age 24, making early identification challenging due to normal developmental changes. Parents should monitor changes in mood or behavior in children, as these may indicate serious emotional disturbances. While the exact causes vary, factors such as genetics, environment, and life experiences can contribute to the development of mental health conditions."
     ]
-}
+    }
 ,
     {
     "tag": "fact-11",
